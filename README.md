@@ -1,7 +1,7 @@
 # Memory-forensics
 
 A project in which I analysed 6 memory dumps with volatility.
-((p.s. The first 2 labs documentation is minimum))
+/(p.s. The first 2 labs documentation is minimum)/
 ### Tools:
 1. Linux
 2. Volatiltity2
