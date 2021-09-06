@@ -1,8 +1,8 @@
-# memory-forensics
+# Memory-forensics
 
 A project in which I analysed 6 memory dumps with volatility.
 
-Tools:
+### Tools:
 1. Linux
 2. Volatiltity2
 3. git
