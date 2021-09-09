@@ -1,0 +1,36 @@
+My system was recently compromised. The Hacker stole a lot of information but he also deleted a very important file of mine. I have no idea on how to recover it. The only evidence we have, at this point of time is this memory dump. Please help me.
+Note: This challenge is composed of only 1 flag.
+The flag format for this lab is: inctf{s0me_l33t_Str1ng}
+
+PROFILE=Win7SP1x64
+
+Imp_process:
+1. StikyNot.exe           2432   3012
+2. dwm.exe                3000    840 
+			  1908  	
+3. GoogleCrashHan         2272   2008 
+			  2284	
+
+
+Imp_files:
+1.SHELL32: 0x000007fefe970000           0xd88000             0xffff C:\Windows\system32\SHELL32.dll
+2.Important.txt 0x000000003fc398d0     16      0 R--rw- \Device\HarddiskVolume2\Users\SlimShady\Desktop\Important.txt
+
+Pass:
+69 0d 0a 0d 0a 0d 0a 6e 0d 0a 0d 0a 0d 0a 63 74   
+0d 0a 0d 0a 0d 0a 0d 0a 66 7b 31 0d 0a 0d 0a 0d   
+0a 5f 69 73 0d 0a 0d 0a 0d 0a 5f 6e 30 74 0d 0a   
+0d 0a 0d 0a 0d 0a 5f 45 51 75 34 6c 0d 0a 0d 0a   
+0d 0a 0d 0a 5f 37 6f 5f 32 5f 62 55 74 0d 0a 0d   
+0a 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a 5f 74 68 31 73   
+5f 64 30 73 33 6e 74 0d 0a 0d 0a 0d 0a 0d 0a 5f   
+6d 34 6b 65 0d 0a 0d 0a 0d 0a 5f 73 33 6e 0d 0a   
+0d 0a 0d 0a 0d 0a 73 33 7d 0d 0a 0d 0a 47 6f 6f   
+64 20 77 6f 72 6b 20 3a 50 
+
+Flag:inctf{1_is_n0t_EQu4l_7o_2_bUt_th1s_d0s3nt_m4ke_s3ns3}
+
+found in important.txt in mft ntse partition  
+
+Cyberchef: from hex + remove whitespaces
+

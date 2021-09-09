@@ -1,0 +1,6 @@
+volatility -f memory_dump.raw --profile=Win7SP1x64
+
+
+dot -Tps filename.dot -o outfile.ps
+
+mftparser |grep -C 20 "Important.txt"
