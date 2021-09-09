@@ -1,0 +1,45 @@
+We received this memory dump from our client recently. Someone accessed his system when he was not there and he found some rather strange files being accessed. Find those files and they might be useful. I quote his exact statement,
+
+"The names were not readable. They were composed of alphabets and numbers but I wasn't able to make out what exactly it was."
+Also, he noticed his most loved application that he always used crashed every time he ran it. Was it a virus?
+NOTE-1: This challenge is composed of 3 flags. If you think 2nd flag is the end, it isn't!! :P
+
+NOTE-2: There was a small mistake when making this challenge. If you find any string which has the string "L4B_3_D0n3!!" in it, please change it to "L4B_5_D0n3!!" and then proceed.
+
+NOTE-3: You'll get the stage 2 flag only when you have the stage 1 flag.
+
+PROFILE:Win7SP0x64
+
+IMP_PROCESS:
+1.WMIPRVSE: 0xfffffa8001c3e910 WmiPrvSE.exe           2572    588
+
+2.WERFAULT: 0xfffffa8000ee8060 WerFault.exe           2716   2632  
+	    0xfffffa8000efbb30 WerFault.exe            780   2632    
+	    0xfffffa8000f05b30 WerFault.exe           2168   2632
+	    
+3.notepad.exe: 0xfffffa80010b8060:notepad.exe                     2744   1580
+
+4.NOTEPAD.exe: 0xfffffa800108cb30:NOTEPAD.EXE                     2724   1580     
+		0xfffffa8000f02b30:NOTEPAD.EXE                     2056   1580     
+		0xfffffa800221ab30:NOTEPAD.EXE                     1388   1580 
+		
+5.WinRAR.exe : 0xfffffa8000f97a20 WinRAR.exe             2924   1580
+
+
+IMP_FILES:
+1. 0x000000003ec87780      9      0 R--r-d \Device\HarddiskVolume2\Windows\SysWOW64\WerFault.exe
+2.C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\SmartNet\Documents\SW1wb3J0YW50.rar
+3. 0x000000003eed56f0      1      0 R--r-- \Device\HarddiskVolume2\Users\SmartNet\Documents\SW1wb3J0YW50.rar
+
+
+
+PASS:
+1.BASE64 in ZmxhZ3shIV93M0xMX2QwbjNfU3Q0ZzMtMV8wZl9MNEJfM19EMG4zXyEhfQ
+
+FLAGS:
+
+FLAG1: flag{!!_w3LL_d0n3_St4g3-1_0f_L4B_5_D0n3_!!} (Note: L4B_3 changed to L4B_5)
+
+FLAG2: flag{W1th_th1s_$taGe_2_1s_c0mPL3T3_!!} (In stage2.png in winrar.rar)
+
+FLAG3:  bi0s{M3m_l4b5_OVeR_!}  (examine NOTEPAD.exe with ollydgb)
