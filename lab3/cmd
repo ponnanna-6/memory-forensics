@@ -1,0 +1,7 @@
+/root/volatility/volatility -f memory_dump.raw --profile=Win7SP0x86
+
+dot -Tps pstree.dot -o pstree.ps
+
+steghide --extract -sf dump_files/suspision1.jpeg -xf dump_files/flag.txt
+
+steghide --extract -sf dump_files/suspision1.jpeg -xf dump_files/flag.txt
