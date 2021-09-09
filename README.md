@@ -1,7 +1,11 @@
 # Memory-forensics
 
 A project in which I analysed 6 memory dumps with volatility.<br/>
-(p.s. The first 2 labs documentation is minimum)
+(p.s. 
+* THIS IS NOT A WRTEUP
+* The first 2 labs documentation is minimum)
+
+MORE info @[MemLabs](https://github.com/stuxnet999/MemLabs)
 
 ### Tools:
 1. Linux
