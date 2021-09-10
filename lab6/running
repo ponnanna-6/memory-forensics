@@ -1,0 +1,52 @@
+Challenge Description
+We received this memory dump from the Intelligence Bureau Department. They say this evidence might hold some secrets of the underworld gangster David Benjamin. This memory dump was taken from one of his workers whom the FBI busted earlier this week. Your job is to go through the memory dump and see if you can figure something out. FBI also says that David communicated with his workers via the internet so that might be a good place to start.
+
+Note: This challenge is composed of 1 flag split into 2 parts.
+
+The flag format for this lab is: inctf{s0me_l33t_Str1ng}
+
+PROFILE: Win7SP1x64
+
+IMP_PROCESS:
+1.WinRar.exe : 0xfffffa80035e71e0 WinRAR.exe             3716   1944
+
+2.firefor.exe:
+0xfffffa8003905b30 firefox.exe            2080   3060                                 
+0xfffffa80021fa630 firefox.exe            2860   2080
+0xfffffa80013a4580 firefox.exe            3016   2080
+0xfffffa8001415b30 firefox.exe            2968   2080
+0xfffffa8001454b30 firefox.exe            3316   2080
+
+3.chrome.exe:
+0xfffffa800234eb30 chrome.exe             2124   1944
+0xfffffa800234f780 chrome.exe             2132   2124
+0xfffffa800314fab0 chrome.exe             2168   2124
+0xfffffa80032f9a70 chrome.exe             2340   2124
+0xfffffa8003741b30 chrome.exe             2440   2124
+0xfffffa800374bb30 chrome.exe             2452   2124
+0xfffffa80032d4380 chrome.exe             2940   2124 
+
+
+
+IMP_FILES:
+1. flag.rar: 0x000000005fcfc4b0     16      0 R--rwd \Device\HarddiskVolume2\Users\Jaffa\Desktop\pr0t3ct3d\flag.rar
+2. 0x000000005da5a610     15      1 RW-rw- \Device\HarddiskVolume2\Users\Jaffa\AppData\Local\Google\Chrome\User Data\Default\History
+3. https://docs.google.com/document/d/1lptcksPt1l_w7Y29V4o6vkEnHToAPqiCkgNNZfS9rCk/edit
+4. https://mega.nz/file/SrxQxYTQ
+
+
+PASS:
+
+*for flag.rar pass: easypeasyvirus (found in envars)
+*https://pastebin.com/RSGSi1hk found in history 
+*davidbenjamin939@gmail.com 
+* Mega Drive key: zyWxCjCYYSEMA-hZe552qWVXiPwa5TecODbjnsscMIU(strings -n memory_dump.raw | grep "Mega "
+
+
+FLAGS:
+flag 1/2: inctf{thi5_cH4LL3Ng3_!s_g0nn4_b3_?_ (in flag_.png change iHDR to IHDR using ghex)
+flag 1/2: aN_Am4zINg_!_i_gU3Ss???_} (found in rar using above pass)
+
+FLAG: inctf{thi5_cH4LL3Ng3_!s_g0nn4_b3_?_aN_Am4zINg_!_i_gU3Ss???_}
+
+

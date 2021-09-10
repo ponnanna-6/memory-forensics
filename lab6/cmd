@@ -1,0 +1,1 @@
+volatility -f memory_dump.raw --profile=Win7SP0x64

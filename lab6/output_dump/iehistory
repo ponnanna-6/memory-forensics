@@ -1,0 +1,1160 @@
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a36180
+Record length: 0x300
+Location: https://www.microsoft.com/favicon.ico?v2
+Last modified: 2015-06-09 04:52:20 UTC+0000
+Last accessed: 2019-08-06 16:49:26 UTC+0000
+File Offset: 0x300, Data Offset: 0x94, Data Length: 0xa4
+File: favicon[1].ico
+Data: HTTP/1.1 200 OK
+ETag: "1D0A270110F5A00"
+Content-Type: image/x-icon
+Content-Length: 17174
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+P3P: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+X-Frame-Options: SAMEORIGIN
+TLS_version: tls1
+Strict-Transport-Security: max-age=31536000
+X-RTag: RT
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a36700
+Record length: 0x300
+Location: https://www.mozilla.org/media/img/firefox/favicon.e6bb0e59df3d.ico
+Last modified: 2019-05-13 17:39:46 UTC+0000
+Last accessed: 2019-08-07 12:25:39 UTC+0000
+File Offset: 0x300, Data Offset: 0xac, Data Length: 0xc8
+File: favicon.e6bb0e59df3d[1].ico
+Data: HTTP/1.1 200 OK
+Content-Type: image/vnd.microsoft.icon
+Transfer-Encoding: chunked
+x-amz-id-2: IiWxK27slTFJ/bDDxQ/CYfmq/ZLeines8HwSmDJvKQtgB2Fh0uGG5U2hB9xR6G8NYeTDGpDUlxo=
+x-amz-request-id: CF88C27B7BDC268E
+ETag: W/"e6bb0e59df3d522c08e799c97ccefbe6"
+x-amz-version-id: 4Bzaq0rVkKkC4Q2s83K6UKSMIAaxPnWc
+CF-Cache-Status: HIT
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+CF-RAY: 50293c387e2d2f15-DEL
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a36a00
+Record length: 0x100
+Location: https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.0.1/win32/en-US/Firefox%20Installer.exe
+Last modified: 1970-01-01 00:00:00 UTC+0000
+Last accessed: 2019-08-07 12:26:06 UTC+0000
+File Offset: 0x100, Data Offset: 0xd4, Data Length: 0x0
+File: Firefox%20Installer[1].exe
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a36b80
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/box_left.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:17 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb0
+File: box_left[1].css
+Data: HTTP/1.1 200 OK
+ETag: "23-562e56425478a"
+Content-Length: 35
+Vary: Accept-Encoding
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a36d00
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/basic.css?20190805
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:17 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xac
+File: basic[1].css
+Data: HTTP/1.1 200 OK
+ETag: "10c3-58f72e74b57c8-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 4291
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a36e80
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/ie7_css_rrlb_en.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:17 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc0
+File: ie7_css_rrlb_en[1].css
+Data: HTTP/1.1 200 OK
+ETag: "95-562e564277df5-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 149
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37000
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/ie8_css_rrlb_en.css?20190805
+Last modified: 2018-01-16 14:17:31 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc0
+File: ie8_css_rrlb_en[1].css
+Data: HTTP/1.1 200 OK
+ETag: "58-562e5643247b9-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 88
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37180
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/price.css?20190805
+Last modified: 2018-01-16 14:17:31 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xac
+File: price[1].css
+Data: HTTP/1.1 200 OK
+ETag: "1c-562e56434726c"
+Content-Length: 28
+Vary: Accept-Encoding
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37300
+Record length: 0x200
+Location: https://www.google-analytics.com/analytics.js
+Last modified: 2019-07-29 21:35:27 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x200, Data Offset: 0x98, Data Length: 0xa8
+File: analytics[1].js
+Data: HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Content-Type: text/javascript
+Alt-Svc: quic=":443"; ma=2592000; v="46,43,39"
+Content-Length: 44343
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37500
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/special.css?20190805
+Last modified: 2018-01-16 14:17:32 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb0
+File: special[1].css
+Data: HTTP/1.1 200 OK
+ETag: "20-562e5643ab7eb"
+Content-Length: 32
+Vary: Accept-Encoding
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37680
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/price_cut_usd.css?20190805
+Last modified: 2018-01-16 14:17:31 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xbc
+File: price_cut_usd[1].css
+Data: HTTP/1.1 200 OK
+ETag: "47-562e56434997c-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 71
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37800
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/frame320_270.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xb8
+File: frame320_270[1].css
+Data: HTTP/1.1 200 OK
+ETag: "128-562e56426b6bc-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 296
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37980
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/default_css_rrlb_en.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xc8
+File: default_css_rrlb_en[1].css
+Data: HTTP/1.1 200 OK
+ETag: "c0-562e56425a54b-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 192
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37b00
+Record length: 0x180
+Location: https://notifier.win-rar.com/images/logo-winrar.gif
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xb0
+File: logo-winrar[1].gif
+Data: HTTP/1.1 200 OK
+ETag: "807-58f72e74bf40a"
+Content-Length: 2055
+Content-Type: image/gif
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37c80
+Record length: 0x180
+Location: https://notifier.win-rar.com/js/jquery-1.11.3.min.js
+Last modified: 2016-02-24 14:21:32 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb8
+File: jquery-1.11.3.min[1].js
+Data: HTTP/1.1 200 OK
+ETag: "176d4-52c84c85bca4a-gzip"
+Content-Type: application/javascript
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 95956
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37e00
+Record length: 0x180
+Location: https://notifier.win-rar.com/images/wr_64_53.png
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xac
+File: wr_64_53[1].png
+Data: HTTP/1.1 200 OK
+ETag: "1891-58f72e74c328a"
+Content-Length: 6289
+Content-Type: image/png
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a37f80
+Record length: 0x180
+Location: https://notifier.win-rar
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:22 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb4
+File: -
+Data: -
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55000
+Record length: 0x100
+Location: Visited: Jaffa@http://go.microsoft.com/fwlink/?LinkId=69157
+Last modified: 2019-08-06 16:48:28 UTC+0000
+Last accessed: 2019-08-06 16:48:28 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55100
+Record length: 0x100
+Location: Visited: Jaffa@http://www.msn.com/?ocid=iehp
+Last modified: 2019-08-06 16:48:27 UTC+0000
+Last accessed: 2019-08-06 16:48:27 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x98
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55200
+Record length: 0x100
+Location: Visited: Jaffa@http://static-global-s-msn-com.akamaized.net/hp-eas/sc/2b/a5ea21.ico
+Last modified: 2019-08-06 16:48:37 UTC+0000
+Last accessed: 2019-08-06 16:48:37 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xbc
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55300
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=dumpit.exe+download&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-06 16:49:36 UTC+0000
+Last accessed: 2019-08-06 16:49:36 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xd0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55480
+Record length: 0x100
+Location: Visited: Jaffa@https://support.microsoft.com/internet-explorer
+Last modified: 2019-08-06 16:49:12 UTC+0000
+Last accessed: 2019-08-06 16:49:12 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55580
+Record length: 0x100
+Location: Visited: Jaffa@https://support.microsoft.com/hub/4230784/internet-explorer-help
+Last modified: 2019-08-06 16:49:14 UTC+0000
+Last accessed: 2019-08-06 16:49:14 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55680
+Record length: 0x100
+Location: Visited: Jaffa@https://ieonline.microsoft.com/favicon.ico
+Last modified: 2019-08-06 16:49:13 UTC+0000
+Last accessed: 2019-08-06 16:49:13 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55780
+Record length: 0x100
+Location: Visited: Jaffa@http://go.microsoft.com/fwlink/?LinkID=121792
+Last modified: 2019-08-06 16:49:13 UTC+0000
+Last accessed: 2019-08-06 16:49:13 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a55880
+Record length: 0x100
+Location: Visited: Jaffa@https://support.microsoft.com/hub/4230784/internet-explorer-help
+Last modified: 2019-08-06 16:49:23 UTC+0000
+Last accessed: 2019-08-06 16:49:23 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56000
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=google&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 12:13:43 UTC+0000
+Last accessed: 2019-08-07 12:13:43 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56180
+Record length: 0x180
+Location: Visited: Jaffa@https://support.microsoft.com/hub/4230784/internet-explorer-help
+Last modified: 2019-08-06 16:49:28 UTC+0000
+Last accessed: 2019-08-06 16:49:28 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56300
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-06 16:49:36 UTC+0000
+Last accessed: 2019-08-06 16:49:36 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xc8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56480
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/favicon.ico
+Last modified: 2019-08-06 16:49:54 UTC+0000
+Last accessed: 2019-08-06 16:49:54 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x98
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56580
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=dumpit.exe+download+github&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=1012552E02EE4686A8737CEFA79ACFF3
+Last modified: 2019-08-07 12:12:50 UTC+0000
+Last accessed: 2019-08-07 12:12:50 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x104
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56700
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download+github&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=1012552E02EE4686A8737CEFA79ACFF3
+Last modified: 2019-08-07 12:12:56 UTC+0000
+Last accessed: 2019-08-07 12:12:56 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xfc
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a56880
+Record length: 0x180
+Location: Visited: Jaffa@http://www.msn.com/en-in/?ocid=iehp
+Last modified: 2019-08-07 12:11:47 UTC+0000
+Last accessed: 2019-08-07 12:11:47 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x9c
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57000
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/while.sh
+Last modified: 2019-08-07 14:33:18 UTC+0000
+Last accessed: 2019-08-07 14:33:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57100
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?q=google&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57280
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=firefox&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 12:25:26 UTC+0000
+Last accessed: 2019-08-07 12:25:26 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57380
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?q=firefox&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 12:25:26 UTC+0000
+Last accessed: 2019-08-07 12:25:26 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xbc
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57480
+Record length: 0x180
+Location: Visited: Jaffa@https://www.mozilla.org/en-US/firefox/new
+Last modified: 2019-08-07 12:25:39 UTC+0000
+Last accessed: 2019-08-07 12:25:39 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57600
+Record length: 0x180
+Location: Visited: Jaffa@https://www.mozilla.org/en-US/firefox/download/thanks
+Last modified: 2019-08-07 12:25:40 UTC+0000
+Last accessed: 2019-08-07 12:25:40 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xb0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57780
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/while.sh
+Last modified: 2019-08-07 13:07:25 UTC+0000
+Last accessed: 2019-08-07 13:07:25 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57880
+Record length: 0x100
+Location: Visited: Jaffa@https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.0.1/win32/en-US/Firefox%20Installer.exe
+Last modified: 2019-08-07 12:26:09 UTC+0000
+Last accessed: 2019-08-07 12:26:09 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xe4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57980
+Record length: 0x100
+Location: Visited: Jaffa@file:///Z:/IMG_20181019_212509019.jpg
+Last modified: 2019-08-07 13:07:18 UTC+0000
+Last accessed: 2019-08-07 13:07:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57a80
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download+github&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=1012552E02EE4686A8737CEFA79ACFF3
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xfc
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a57c00
+Record length: 0x180
+Location: Visited: Jaffa@http://www.msn.com/en-in/?ocid=iehp
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x9c
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58000
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xc8
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58180
+Record length: 0x180
+Location: Visited: Jaffa@http://www.msn.com/en-in/?ocid=iehp
+Last modified: 2019-08-07 15:01:33 UTC+0000
+Last accessed: 2019-08-07 15:01:33 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x9c
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58300
+Record length: 0x100
+Location: Visited: Jaffa@file:///Z:/profile.jpg
+Last modified: 2019-08-07 15:02:14 UTC+0000
+Last accessed: 2019-08-07 15:02:14 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x90
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58400
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/profile.jpg
+Last modified: 2019-08-07 15:18:47 UTC+0000
+Last accessed: 2019-08-07 15:18:47 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58500
+Record length: 0x100
+Location: Visited: Jaffa@file:///Z:/link.txt
+Last modified: 2019-08-16 15:30:10 UTC+0000
+Last accessed: 2019-08-16 15:30:10 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x8c
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58600
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/Flag.zip
+Last modified: 2019-08-07 16:05:33 UTC+0000
+Last accessed: 2019-08-07 16:05:33 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58700
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/36324.jpg
+Last modified: 2019-08-07 16:05:26 UTC+0000
+Last accessed: 2019-08-07 16:05:26 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58800
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/pr0t3ct3d/flag.zip
+Last modified: 2019-08-18 11:34:57 UTC+0000
+Last accessed: 2019-08-18 11:34:57 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xac
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58900
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/pr0t3ct3d/flag.rar
+Last modified: 2019-08-19 14:41:45 UTC+0000
+Last accessed: 2019-08-19 14:41:45 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xac
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58a00
+Record length: 0x100
+Location: Visited: Jaffa@https://notifier.win-rar.com/?language=English&source=wrr&landingpage=first&version=571&architecture=64
+Last modified: 2019-08-18 11:42:16 UTC+0000
+Last accessed: 2019-08-18 11:42:16 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xe0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a58b00
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/pr0t3ct3d/flag.rar
+Last modified: 2019-08-19 14:19:23 UTC+0000
+Last accessed: 2019-08-19 14:19:23 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xac
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a45000
+Record length: 0x100
+Location: Cookie:jaffa@win-rar.com/
+Last modified: 2019-08-18 11:42:18 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x84, Data Length: 0x0
+File: jaffa@win-rar[1].txt
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a45100
+Record length: 0x100
+Location: Cookie:jaffa@win-rar.com/
+Last modified: 2019-08-18 11:42:18 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x84, Data Length: 0x0
+File: jaffa@win-rar[2].txt
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a65000
+Record length: 0x100
+Location: :2019081920190820: Jaffa@file:///C:/Users/Jaffa/Desktop/pr0t3ct3d/flag.rar
+Last modified: 2019-08-19 20:11:45 UTC+0000
+Last accessed: 2019-08-19 14:41:45 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a65100
+Record length: 0x100
+Location: :2019081920190820: Jaffa@:Host: Computer
+Last modified: 2019-08-19 19:47:33 UTC+0000
+Last accessed: 2019-08-19 14:17:33 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x0
+**************************************************
+Process: 1944 explorer.exe
+Cache type "URL " at 0x5a65200
+Record length: 0x100
+Location: :2019081920190820: Jaffa@file:///C:/Users/Jaffa/Desktop/pr0t3ct3d/flag.rar
+Last modified: 2019-08-19 19:49:23 UTC+0000
+Last accessed: 2019-08-19 14:19:23 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x0
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x245000
+Record length: 0x100
+Location: Cookie:jaffa@win-rar.com/
+Last modified: 2019-08-18 11:42:18 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x84, Data Length: 0x0
+File: jaffa@win-rar[1].txt
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x245100
+Record length: 0x100
+Location: Cookie:jaffa@win-rar.com/
+Last modified: 2019-08-18 11:42:18 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x84, Data Length: 0x0
+File: jaffa@win-rar[2].txt
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x826180
+Record length: 0x300
+Location: https://www.microsoft.com/favicon.ico?v2
+Last modified: 2015-06-09 04:52:20 UTC+0000
+Last accessed: 2019-08-06 16:49:26 UTC+0000
+File Offset: 0x300, Data Offset: 0x94, Data Length: 0xa4
+File: favicon[1].ico
+Data: HTTP/1.1 200 OK
+ETag: "1D0A270110F5A00"
+Content-Type: image/x-icon
+Content-Length: 17174
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+P3P: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+X-Frame-Options: SAMEORIGIN
+TLS_version: tls1
+Strict-Transport-Security: max-age=31536000
+X-RTag: RT
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x826700
+Record length: 0x300
+Location: https://www.mozilla.org/media/img/firefox/favicon.e6bb0e59df3d.ico
+Last modified: 2019-05-13 17:39:46 UTC+0000
+Last accessed: 2019-08-07 12:25:39 UTC+0000
+File Offset: 0x300, Data Offset: 0xac, Data Length: 0xc8
+File: favicon.e6bb0e59df3d[1].ico
+Data: HTTP/1.1 200 OK
+Content-Type: image/vnd.microsoft.icon
+Transfer-Encoding: chunked
+x-amz-id-2: IiWxK27slTFJ/bDDxQ/CYfmq/ZLeines8HwSmDJvKQtgB2Fh0uGG5U2hB9xR6G8NYeTDGpDUlxo=
+x-amz-request-id: CF88C27B7BDC268E
+ETag: W/"e6bb0e59df3d522c08e799c97ccefbe6"
+x-amz-version-id: 4Bzaq0rVkKkC4Q2s83K6UKSMIAaxPnWc
+CF-Cache-Status: HIT
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+CF-RAY: 50293c387e2d2f15-DEL
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x826a00
+Record length: 0x100
+Location: https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.0.1/win32/en-US/Firefox%20Installer.exe
+Last modified: 1970-01-01 00:00:00 UTC+0000
+Last accessed: 2019-08-07 12:26:06 UTC+0000
+File Offset: 0x100, Data Offset: 0xd4, Data Length: 0x0
+File: Firefox%20Installer[1].exe
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x826b80
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/box_left.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:17 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb0
+File: box_left[1].css
+Data: HTTP/1.1 200 OK
+ETag: "23-562e56425478a"
+Content-Length: 35
+Vary: Accept-Encoding
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x826d00
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/basic.css?20190805
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:17 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xac
+File: basic[1].css
+Data: HTTP/1.1 200 OK
+ETag: "10c3-58f72e74b57c8-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 4291
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x826e80
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/ie7_css_rrlb_en.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:17 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc0
+File: ie7_css_rrlb_en[1].css
+Data: HTTP/1.1 200 OK
+ETag: "95-562e564277df5-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 149
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827000
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/ie8_css_rrlb_en.css?20190805
+Last modified: 2018-01-16 14:17:31 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc0
+File: ie8_css_rrlb_en[1].css
+Data: HTTP/1.1 200 OK
+ETag: "58-562e5643247b9-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 88
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827180
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/price.css?20190805
+Last modified: 2018-01-16 14:17:31 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xac
+File: price[1].css
+Data: HTTP/1.1 200 OK
+ETag: "1c-562e56434726c"
+Content-Length: 28
+Vary: Accept-Encoding
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827300
+Record length: 0x200
+Location: https://www.google-analytics.com/analytics.js
+Last modified: 2019-07-29 21:35:27 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x200, Data Offset: 0x98, Data Length: 0xa8
+File: analytics[1].js
+Data: HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Content-Type: text/javascript
+Alt-Svc: quic=":443"; ma=2592000; v="46,43,39"
+Content-Length: 44343
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827500
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/special.css?20190805
+Last modified: 2018-01-16 14:17:32 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb0
+File: special[1].css
+Data: HTTP/1.1 200 OK
+ETag: "20-562e5643ab7eb"
+Content-Length: 32
+Vary: Accept-Encoding
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827680
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/price_cut_usd.css?20190805
+Last modified: 2018-01-16 14:17:31 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xbc
+File: price_cut_usd[1].css
+Data: HTTP/1.1 200 OK
+ETag: "47-562e56434997c-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 71
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827800
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/frame320_270.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:18 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xb8
+File: frame320_270[1].css
+Data: HTTP/1.1 200 OK
+ETag: "128-562e56426b6bc-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 296
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827980
+Record length: 0x180
+Location: https://notifier.win-rar.com/css/default_css_rrlb_en.css?20190805
+Last modified: 2018-01-16 14:17:30 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xc8
+File: default_css_rrlb_en[1].css
+Data: HTTP/1.1 200 OK
+ETag: "c0-562e56425a54b-gzip"
+Content-Type: text/css
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 192
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827b00
+Record length: 0x180
+Location: https://notifier.win-rar.com/images/logo-winrar.gif
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xb0
+File: logo-winrar[1].gif
+Data: HTTP/1.1 200 OK
+ETag: "807-58f72e74bf40a"
+Content-Length: 2055
+Content-Type: image/gif
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827c80
+Record length: 0x180
+Location: https://notifier.win-rar.com/js/jquery-1.11.3.min.js
+Last modified: 2016-02-24 14:21:32 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb8
+File: jquery-1.11.3.min[1].js
+Data: HTTP/1.1 200 OK
+ETag: "176d4-52c84c85bca4a-gzip"
+Content-Type: application/javascript
+Strict-Transport-Security: max-age=31536000;
+Content-Length: 95956
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827e00
+Record length: 0x180
+Location: https://notifier.win-rar.com/images/wr_64_53.png
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:19 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xac
+File: wr_64_53[1].png
+Data: HTTP/1.1 200 OK
+ETag: "1891-58f72e74c328a"
+Content-Length: 6289
+Content-Type: image/png
+Strict-Transport-Security: max-age=31536000;
+
+~U:jaffa
+
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0x827f80
+Record length: 0x180
+Location: https://notifier.win-rar
+Last modified: 2019-08-06 13:35:53 UTC+0000
+Last accessed: 2019-08-18 11:42:22 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb4
+File: -
+Data: -
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15000
+Record length: 0x100
+Location: Visited: Jaffa@http://go.microsoft.com/fwlink/?LinkId=69157
+Last modified: 2019-08-06 16:48:28 UTC+0000
+Last accessed: 2019-08-06 16:48:28 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15100
+Record length: 0x100
+Location: Visited: Jaffa@http://www.msn.com/?ocid=iehp
+Last modified: 2019-08-06 16:48:27 UTC+0000
+Last accessed: 2019-08-06 16:48:27 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x98
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15200
+Record length: 0x100
+Location: Visited: Jaffa@http://static-global-s-msn-com.akamaized.net/hp-eas/sc/2b/a5ea21.ico
+Last modified: 2019-08-06 16:48:37 UTC+0000
+Last accessed: 2019-08-06 16:48:37 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xbc
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15300
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=dumpit.exe+download&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-06 16:49:36 UTC+0000
+Last accessed: 2019-08-06 16:49:36 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xd0
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15480
+Record length: 0x100
+Location: Visited: Jaffa@https://support.microsoft.com/internet-explorer
+Last modified: 2019-08-06 16:49:12 UTC+0000
+Last accessed: 2019-08-06 16:49:12 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15580
+Record length: 0x100
+Location: Visited: Jaffa@https://support.microsoft.com/hub/4230784/internet-explorer-help
+Last modified: 2019-08-06 16:49:14 UTC+0000
+Last accessed: 2019-08-06 16:49:14 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15680
+Record length: 0x100
+Location: Visited: Jaffa@https://ieonline.microsoft.com/favicon.ico
+Last modified: 2019-08-06 16:49:13 UTC+0000
+Last accessed: 2019-08-06 16:49:13 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15780
+Record length: 0x100
+Location: Visited: Jaffa@http://go.microsoft.com/fwlink/?LinkID=121792
+Last modified: 2019-08-06 16:49:13 UTC+0000
+Last accessed: 2019-08-06 16:49:13 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe15880
+Record length: 0x100
+Location: Visited: Jaffa@https://support.microsoft.com/hub/4230784/internet-explorer-help
+Last modified: 2019-08-06 16:49:23 UTC+0000
+Last accessed: 2019-08-06 16:49:23 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16000
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=google&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 12:13:43 UTC+0000
+Last accessed: 2019-08-07 12:13:43 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc4
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16180
+Record length: 0x180
+Location: Visited: Jaffa@https://support.microsoft.com/hub/4230784/internet-explorer-help
+Last modified: 2019-08-06 16:49:28 UTC+0000
+Last accessed: 2019-08-06 16:49:28 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16300
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-06 16:49:36 UTC+0000
+Last accessed: 2019-08-06 16:49:36 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xc8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16480
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/favicon.ico
+Last modified: 2019-08-06 16:49:54 UTC+0000
+Last accessed: 2019-08-06 16:49:54 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x98
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16580
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=dumpit.exe+download+github&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=1012552E02EE4686A8737CEFA79ACFF3
+Last modified: 2019-08-07 12:12:50 UTC+0000
+Last accessed: 2019-08-07 12:12:50 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x104
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16700
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download+github&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=1012552E02EE4686A8737CEFA79ACFF3
+Last modified: 2019-08-07 12:12:56 UTC+0000
+Last accessed: 2019-08-07 12:12:56 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xfc
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe16880
+Record length: 0x180
+Location: Visited: Jaffa@http://www.msn.com/en-in/?ocid=iehp
+Last modified: 2019-08-07 12:11:47 UTC+0000
+Last accessed: 2019-08-07 12:11:47 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x9c
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17000
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/while.sh
+Last modified: 2019-08-07 14:33:18 UTC+0000
+Last accessed: 2019-08-07 14:33:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17100
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?q=google&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb8
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17280
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?format=rss&q=firefox&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 12:25:26 UTC+0000
+Last accessed: 2019-08-07 12:25:26 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc4
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17380
+Record length: 0x100
+Location: Visited: Jaffa@http://www.bing.com/search?q=firefox&src=IE-SearchBox&FORM=IE8SRC
+Last modified: 2019-08-07 12:25:26 UTC+0000
+Last accessed: 2019-08-07 12:25:26 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xbc
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17480
+Record length: 0x180
+Location: Visited: Jaffa@https://www.mozilla.org/en-US/firefox/new
+Last modified: 2019-08-07 12:25:39 UTC+0000
+Last accessed: 2019-08-07 12:25:39 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17600
+Record length: 0x180
+Location: Visited: Jaffa@https://www.mozilla.org/en-US/firefox/download/thanks
+Last modified: 2019-08-07 12:25:40 UTC+0000
+Last accessed: 2019-08-07 12:25:40 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xb0
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17780
+Record length: 0x100
+Location: Visited: Jaffa@file:///C:/Users/Jaffa/Desktop/while.sh
+Last modified: 2019-08-07 13:07:25 UTC+0000
+Last accessed: 2019-08-07 13:07:25 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17880
+Record length: 0x100
+Location: Visited: Jaffa@https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.0.1/win32/en-US/Firefox%20Installer.exe
+Last modified: 2019-08-07 12:26:09 UTC+0000
+Last accessed: 2019-08-07 12:26:09 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xe4
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17980
+Record length: 0x100
+Location: Visited: Jaffa@file:///Z:/IMG_20181019_212509019.jpg
+Last modified: 2019-08-07 13:07:18 UTC+0000
+Last accessed: 2019-08-07 13:07:18 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa0
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17a80
+Record length: 0x180
+Location: Visited: Jaffa@http://www.bing.com/search?q=dumpit.exe+download+github&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=1012552E02EE4686A8737CEFA79ACFF3
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xfc
+**************************************************
+Process: 2080 firefox.exe
+Cache type "URL " at 0xe17c00
+Record length: 0x180
+Location: Visited: Jaffa@http://www.msn.com/en-in/?ocid=iehp
+Last modified: 2019-08-07 13:16:12 UTC+0000
+Last accessed: 2019-08-07 13:16:12 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x9c

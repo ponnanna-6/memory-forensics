@@ -1,0 +1,1590 @@
+Pid      Process              Block              Variable                       Value
+-------- -------------------- ------------------ ------------------------------ -----
+     264 smss.exe             0x0000000000411320 Path                           C:\Windows\System32
+     264 smss.exe             0x0000000000411320 SystemDrive                    C:
+     264 smss.exe             0x0000000000411320 SystemRoot                     C:\Windows
+     336 csrss.exe            0x0000000000291320 ComSpec                        C:\Windows\system32\cmd.exe
+     336 csrss.exe            0x0000000000291320 FP_NO_HOST_CHECK               NO
+     336 csrss.exe            0x0000000000291320 NUMBER_OF_PROCESSORS           1
+     336 csrss.exe            0x0000000000291320 OS                             Windows_NT
+     336 csrss.exe            0x0000000000291320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     336 csrss.exe            0x0000000000291320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     336 csrss.exe            0x0000000000291320 PROCESSOR_ARCHITECTURE         AMD64
+     336 csrss.exe            0x0000000000291320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     336 csrss.exe            0x0000000000291320 PROCESSOR_LEVEL                6
+     336 csrss.exe            0x0000000000291320 PROCESSOR_REVISION             9e0a
+     336 csrss.exe            0x0000000000291320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     336 csrss.exe            0x0000000000291320 SystemDrive                    C:
+     336 csrss.exe            0x0000000000291320 SystemRoot                     C:\Windows
+     336 csrss.exe            0x0000000000291320 TEMP                           C:\Windows\TEMP
+     336 csrss.exe            0x0000000000291320 TMP                            C:\Windows\TEMP
+     336 csrss.exe            0x0000000000291320 USERNAME                       SYSTEM
+     336 csrss.exe            0x0000000000291320 windir                         C:\Windows
+     336 csrss.exe            0x0000000000291320 windows_tracing_flags          3
+     336 csrss.exe            0x0000000000291320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     384 wininit.exe          0x0000000000329690 ALLUSERSPROFILE                C:\ProgramData
+     384 wininit.exe          0x0000000000329690 CommonProgramFiles             C:\Program Files\Common Files
+     384 wininit.exe          0x0000000000329690 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     384 wininit.exe          0x0000000000329690 CommonProgramW6432             C:\Program Files\Common Files
+     384 wininit.exe          0x0000000000329690 COMPUTERNAME                   VIRUS-PC
+     384 wininit.exe          0x0000000000329690 ComSpec                        C:\Windows\system32\cmd.exe
+     384 wininit.exe          0x0000000000329690 FP_NO_HOST_CHECK               NO
+     384 wininit.exe          0x0000000000329690 NUMBER_OF_PROCESSORS           1
+     384 wininit.exe          0x0000000000329690 OS                             Windows_NT
+     384 wininit.exe          0x0000000000329690 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     384 wininit.exe          0x0000000000329690 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     384 wininit.exe          0x0000000000329690 PROCESSOR_ARCHITECTURE         AMD64
+     384 wininit.exe          0x0000000000329690 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     384 wininit.exe          0x0000000000329690 PROCESSOR_LEVEL                6
+     384 wininit.exe          0x0000000000329690 PROCESSOR_REVISION             9e0a
+     384 wininit.exe          0x0000000000329690 ProgramData                    C:\ProgramData
+     384 wininit.exe          0x0000000000329690 ProgramFiles                   C:\Program Files
+     384 wininit.exe          0x0000000000329690 ProgramFiles(x86)              C:\Program Files (x86)
+     384 wininit.exe          0x0000000000329690 ProgramW6432                   C:\Program Files
+     384 wininit.exe          0x0000000000329690 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     384 wininit.exe          0x0000000000329690 PUBLIC                         C:\Users\Public
+     384 wininit.exe          0x0000000000329690 SystemDrive                    C:
+     384 wininit.exe          0x0000000000329690 SystemRoot                     C:\Windows
+     384 wininit.exe          0x0000000000329690 TEMP                           C:\Windows\TEMP
+     384 wininit.exe          0x0000000000329690 TMP                            C:\Windows\TEMP
+     384 wininit.exe          0x0000000000329690 USERNAME                       SYSTEM
+     384 wininit.exe          0x0000000000329690 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     384 wininit.exe          0x0000000000329690 windir                         C:\Windows
+     384 wininit.exe          0x0000000000329690 windows_tracing_flags          3
+     384 wininit.exe          0x0000000000329690 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     396 csrss.exe            0x0000000000181320 ComSpec                        C:\Windows\system32\cmd.exe
+     396 csrss.exe            0x0000000000181320 FP_NO_HOST_CHECK               NO
+     396 csrss.exe            0x0000000000181320 NUMBER_OF_PROCESSORS           1
+     396 csrss.exe            0x0000000000181320 OS                             Windows_NT
+     396 csrss.exe            0x0000000000181320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     396 csrss.exe            0x0000000000181320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     396 csrss.exe            0x0000000000181320 PROCESSOR_ARCHITECTURE         AMD64
+     396 csrss.exe            0x0000000000181320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     396 csrss.exe            0x0000000000181320 PROCESSOR_LEVEL                6
+     396 csrss.exe            0x0000000000181320 PROCESSOR_REVISION             9e0a
+     396 csrss.exe            0x0000000000181320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     396 csrss.exe            0x0000000000181320 SystemDrive                    C:
+     396 csrss.exe            0x0000000000181320 SystemRoot                     C:\Windows
+     396 csrss.exe            0x0000000000181320 TEMP                           C:\Windows\TEMP
+     396 csrss.exe            0x0000000000181320 TMP                            C:\Windows\TEMP
+     396 csrss.exe            0x0000000000181320 USERNAME                       SYSTEM
+     396 csrss.exe            0x0000000000181320 windir                         C:\Windows
+     396 csrss.exe            0x0000000000181320 windows_tracing_flags          3
+     396 csrss.exe            0x0000000000181320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     436 winlogon.exe         0x000000000033df10 ALLUSERSPROFILE                C:\ProgramData
+     436 winlogon.exe         0x000000000033df10 CommonProgramFiles             C:\Program Files\Common Files
+     436 winlogon.exe         0x000000000033df10 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     436 winlogon.exe         0x000000000033df10 CommonProgramW6432             C:\Program Files\Common Files
+     436 winlogon.exe         0x000000000033df10 COMPUTERNAME                   VIRUS-PC
+     436 winlogon.exe         0x000000000033df10 ComSpec                        C:\Windows\system32\cmd.exe
+     436 winlogon.exe         0x000000000033df10 FP_NO_HOST_CHECK               NO
+     436 winlogon.exe         0x000000000033df10 NUMBER_OF_PROCESSORS           1
+     436 winlogon.exe         0x000000000033df10 OS                             Windows_NT
+     436 winlogon.exe         0x000000000033df10 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     436 winlogon.exe         0x000000000033df10 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     436 winlogon.exe         0x000000000033df10 PROCESSOR_ARCHITECTURE         AMD64
+     436 winlogon.exe         0x000000000033df10 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     436 winlogon.exe         0x000000000033df10 PROCESSOR_LEVEL                6
+     436 winlogon.exe         0x000000000033df10 PROCESSOR_REVISION             9e0a
+     436 winlogon.exe         0x000000000033df10 ProgramData                    C:\ProgramData
+     436 winlogon.exe         0x000000000033df10 ProgramFiles                   C:\Program Files
+     436 winlogon.exe         0x000000000033df10 ProgramFiles(x86)              C:\Program Files (x86)
+     436 winlogon.exe         0x000000000033df10 ProgramW6432                   C:\Program Files
+     436 winlogon.exe         0x000000000033df10 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     436 winlogon.exe         0x000000000033df10 PUBLIC                         C:\Users\Public
+     436 winlogon.exe         0x000000000033df10 SystemDrive                    C:
+     436 winlogon.exe         0x000000000033df10 SystemRoot                     C:\Windows
+     436 winlogon.exe         0x000000000033df10 TEMP                           C:\Windows\TEMP
+     436 winlogon.exe         0x000000000033df10 TMP                            C:\Windows\TEMP
+     436 winlogon.exe         0x000000000033df10 USERNAME                       SYSTEM
+     436 winlogon.exe         0x000000000033df10 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     436 winlogon.exe         0x000000000033df10 windir                         C:\Windows
+     436 winlogon.exe         0x000000000033df10 windows_tracing_flags          3
+     436 winlogon.exe         0x000000000033df10 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     480 services.exe         0x00000000001f1320 ALLUSERSPROFILE                C:\ProgramData
+     480 services.exe         0x00000000001f1320 CommonProgramFiles             C:\Program Files\Common Files
+     480 services.exe         0x00000000001f1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     480 services.exe         0x00000000001f1320 CommonProgramW6432             C:\Program Files\Common Files
+     480 services.exe         0x00000000001f1320 COMPUTERNAME                   VIRUS-PC
+     480 services.exe         0x00000000001f1320 ComSpec                        C:\Windows\system32\cmd.exe
+     480 services.exe         0x00000000001f1320 FP_NO_HOST_CHECK               NO
+     480 services.exe         0x00000000001f1320 NUMBER_OF_PROCESSORS           1
+     480 services.exe         0x00000000001f1320 OS                             Windows_NT
+     480 services.exe         0x00000000001f1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     480 services.exe         0x00000000001f1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     480 services.exe         0x00000000001f1320 PROCESSOR_ARCHITECTURE         AMD64
+     480 services.exe         0x00000000001f1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     480 services.exe         0x00000000001f1320 PROCESSOR_LEVEL                6
+     480 services.exe         0x00000000001f1320 PROCESSOR_REVISION             9e0a
+     480 services.exe         0x00000000001f1320 ProgramData                    C:\ProgramData
+     480 services.exe         0x00000000001f1320 ProgramFiles                   C:\Program Files
+     480 services.exe         0x00000000001f1320 ProgramFiles(x86)              C:\Program Files (x86)
+     480 services.exe         0x00000000001f1320 ProgramW6432                   C:\Program Files
+     480 services.exe         0x00000000001f1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     480 services.exe         0x00000000001f1320 PUBLIC                         C:\Users\Public
+     480 services.exe         0x00000000001f1320 SystemDrive                    C:
+     480 services.exe         0x00000000001f1320 SystemRoot                     C:\Windows
+     480 services.exe         0x00000000001f1320 TEMP                           C:\Windows\TEMP
+     480 services.exe         0x00000000001f1320 TMP                            C:\Windows\TEMP
+     480 services.exe         0x00000000001f1320 USERNAME                       SYSTEM
+     480 services.exe         0x00000000001f1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     480 services.exe         0x00000000001f1320 windir                         C:\Windows
+     480 services.exe         0x00000000001f1320 windows_tracing_flags          3
+     480 services.exe         0x00000000001f1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     496 lsass.exe            0x00000000001b1320 ALLUSERSPROFILE                C:\ProgramData
+     496 lsass.exe            0x00000000001b1320 CommonProgramFiles             C:\Program Files\Common Files
+     496 lsass.exe            0x00000000001b1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     496 lsass.exe            0x00000000001b1320 CommonProgramW6432             C:\Program Files\Common Files
+     496 lsass.exe            0x00000000001b1320 COMPUTERNAME                   VIRUS-PC
+     496 lsass.exe            0x00000000001b1320 ComSpec                        C:\Windows\system32\cmd.exe
+     496 lsass.exe            0x00000000001b1320 FP_NO_HOST_CHECK               NO
+     496 lsass.exe            0x00000000001b1320 NUMBER_OF_PROCESSORS           1
+     496 lsass.exe            0x00000000001b1320 OS                             Windows_NT
+     496 lsass.exe            0x00000000001b1320 Path                           C:\Windows\System32
+     496 lsass.exe            0x00000000001b1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     496 lsass.exe            0x00000000001b1320 PROCESSOR_ARCHITECTURE         AMD64
+     496 lsass.exe            0x00000000001b1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     496 lsass.exe            0x00000000001b1320 PROCESSOR_LEVEL                6
+     496 lsass.exe            0x00000000001b1320 PROCESSOR_REVISION             9e0a
+     496 lsass.exe            0x00000000001b1320 ProgramData                    C:\ProgramData
+     496 lsass.exe            0x00000000001b1320 ProgramFiles                   C:\Program Files
+     496 lsass.exe            0x00000000001b1320 ProgramFiles(x86)              C:\Program Files (x86)
+     496 lsass.exe            0x00000000001b1320 ProgramW6432                   C:\Program Files
+     496 lsass.exe            0x00000000001b1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     496 lsass.exe            0x00000000001b1320 PUBLIC                         C:\Users\Public
+     496 lsass.exe            0x00000000001b1320 SystemDrive                    C:
+     496 lsass.exe            0x00000000001b1320 SystemRoot                     C:\Windows
+     496 lsass.exe            0x00000000001b1320 TEMP                           C:\Windows\TEMP
+     496 lsass.exe            0x00000000001b1320 TMP                            C:\Windows\TEMP
+     496 lsass.exe            0x00000000001b1320 USERNAME                       SYSTEM
+     496 lsass.exe            0x00000000001b1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     496 lsass.exe            0x00000000001b1320 windir                         C:\Windows
+     496 lsass.exe            0x00000000001b1320 windows_tracing_flags          3
+     496 lsass.exe            0x00000000001b1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     504 lsm.exe              0x0000000000331320 ALLUSERSPROFILE                C:\ProgramData
+     504 lsm.exe              0x0000000000331320 CommonProgramFiles             C:\Program Files\Common Files
+     504 lsm.exe              0x0000000000331320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     504 lsm.exe              0x0000000000331320 CommonProgramW6432             C:\Program Files\Common Files
+     504 lsm.exe              0x0000000000331320 COMPUTERNAME                   VIRUS-PC
+     504 lsm.exe              0x0000000000331320 ComSpec                        C:\Windows\system32\cmd.exe
+     504 lsm.exe              0x0000000000331320 FP_NO_HOST_CHECK               NO
+     504 lsm.exe              0x0000000000331320 NUMBER_OF_PROCESSORS           1
+     504 lsm.exe              0x0000000000331320 OS                             Windows_NT
+     504 lsm.exe              0x0000000000331320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     504 lsm.exe              0x0000000000331320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     504 lsm.exe              0x0000000000331320 PROCESSOR_ARCHITECTURE         AMD64
+     504 lsm.exe              0x0000000000331320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     504 lsm.exe              0x0000000000331320 PROCESSOR_LEVEL                6
+     504 lsm.exe              0x0000000000331320 PROCESSOR_REVISION             9e0a
+     504 lsm.exe              0x0000000000331320 ProgramData                    C:\ProgramData
+     504 lsm.exe              0x0000000000331320 ProgramFiles                   C:\Program Files
+     504 lsm.exe              0x0000000000331320 ProgramFiles(x86)              C:\Program Files (x86)
+     504 lsm.exe              0x0000000000331320 ProgramW6432                   C:\Program Files
+     504 lsm.exe              0x0000000000331320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     504 lsm.exe              0x0000000000331320 PUBLIC                         C:\Users\Public
+     504 lsm.exe              0x0000000000331320 SystemDrive                    C:
+     504 lsm.exe              0x0000000000331320 SystemRoot                     C:\Windows
+     504 lsm.exe              0x0000000000331320 TEMP                           C:\Windows\TEMP
+     504 lsm.exe              0x0000000000331320 TMP                            C:\Windows\TEMP
+     504 lsm.exe              0x0000000000331320 USERNAME                       SYSTEM
+     504 lsm.exe              0x0000000000331320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     504 lsm.exe              0x0000000000331320 windir                         C:\Windows
+     504 lsm.exe              0x0000000000331320 windows_tracing_flags          3
+     504 lsm.exe              0x0000000000331320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     608 svchost.exe          0x0000000000241320 ALLUSERSPROFILE                C:\ProgramData
+     608 svchost.exe          0x0000000000241320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     608 svchost.exe          0x0000000000241320 CommonProgramFiles             C:\Program Files\Common Files
+     608 svchost.exe          0x0000000000241320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     608 svchost.exe          0x0000000000241320 CommonProgramW6432             C:\Program Files\Common Files
+     608 svchost.exe          0x0000000000241320 COMPUTERNAME                   VIRUS-PC
+     608 svchost.exe          0x0000000000241320 ComSpec                        C:\Windows\system32\cmd.exe
+     608 svchost.exe          0x0000000000241320 FP_NO_HOST_CHECK               NO
+     608 svchost.exe          0x0000000000241320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     608 svchost.exe          0x0000000000241320 NUMBER_OF_PROCESSORS           1
+     608 svchost.exe          0x0000000000241320 OS                             Windows_NT
+     608 svchost.exe          0x0000000000241320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     608 svchost.exe          0x0000000000241320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     608 svchost.exe          0x0000000000241320 PROCESSOR_ARCHITECTURE         AMD64
+     608 svchost.exe          0x0000000000241320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     608 svchost.exe          0x0000000000241320 PROCESSOR_LEVEL                6
+     608 svchost.exe          0x0000000000241320 PROCESSOR_REVISION             9e0a
+     608 svchost.exe          0x0000000000241320 ProgramData                    C:\ProgramData
+     608 svchost.exe          0x0000000000241320 ProgramFiles                   C:\Program Files
+     608 svchost.exe          0x0000000000241320 ProgramFiles(x86)              C:\Program Files (x86)
+     608 svchost.exe          0x0000000000241320 ProgramW6432                   C:\Program Files
+     608 svchost.exe          0x0000000000241320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     608 svchost.exe          0x0000000000241320 PUBLIC                         C:\Users\Public
+     608 svchost.exe          0x0000000000241320 SystemDrive                    C:
+     608 svchost.exe          0x0000000000241320 SystemRoot                     C:\Windows
+     608 svchost.exe          0x0000000000241320 TEMP                           C:\Windows\TEMP
+     608 svchost.exe          0x0000000000241320 TMP                            C:\Windows\TEMP
+     608 svchost.exe          0x0000000000241320 USERDOMAIN                     WORKGROUP
+     608 svchost.exe          0x0000000000241320 USERNAME                       VIRUS-PC$
+     608 svchost.exe          0x0000000000241320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     608 svchost.exe          0x0000000000241320 windir                         C:\Windows
+     608 svchost.exe          0x0000000000241320 windows_tracing_flags          3
+     608 svchost.exe          0x0000000000241320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     668 VBoxService.ex       0x0000000000276350 ALLUSERSPROFILE                C:\ProgramData
+     668 VBoxService.ex       0x0000000000276350 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     668 VBoxService.ex       0x0000000000276350 CommonProgramFiles             C:\Program Files\Common Files
+     668 VBoxService.ex       0x0000000000276350 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     668 VBoxService.ex       0x0000000000276350 CommonProgramW6432             C:\Program Files\Common Files
+     668 VBoxService.ex       0x0000000000276350 COMPUTERNAME                   VIRUS-PC
+     668 VBoxService.ex       0x0000000000276350 ComSpec                        C:\Windows\system32\cmd.exe
+     668 VBoxService.ex       0x0000000000276350 FP_NO_HOST_CHECK               NO
+     668 VBoxService.ex       0x0000000000276350 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     668 VBoxService.ex       0x0000000000276350 NUMBER_OF_PROCESSORS           1
+     668 VBoxService.ex       0x0000000000276350 OS                             Windows_NT
+     668 VBoxService.ex       0x0000000000276350 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;
+     668 VBoxService.ex       0x0000000000276350 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     668 VBoxService.ex       0x0000000000276350 PROCESSOR_ARCHITECTURE         AMD64
+     668 VBoxService.ex       0x0000000000276350 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     668 VBoxService.ex       0x0000000000276350 PROCESSOR_LEVEL                6
+     668 VBoxService.ex       0x0000000000276350 PROCESSOR_REVISION             9e0a
+     668 VBoxService.ex       0x0000000000276350 ProgramData                    C:\ProgramData
+     668 VBoxService.ex       0x0000000000276350 ProgramFiles                   C:\Program Files
+     668 VBoxService.ex       0x0000000000276350 ProgramFiles(x86)              C:\Program Files (x86)
+     668 VBoxService.ex       0x0000000000276350 ProgramW6432                   C:\Program Files
+     668 VBoxService.ex       0x0000000000276350 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     668 VBoxService.ex       0x0000000000276350 PUBLIC                         C:\Users\Public
+     668 VBoxService.ex       0x0000000000276350 SystemDrive                    C:
+     668 VBoxService.ex       0x0000000000276350 SystemRoot                     C:\Windows
+     668 VBoxService.ex       0x0000000000276350 TEMP                           C:\Windows\TEMP
+     668 VBoxService.ex       0x0000000000276350 TMP                            C:\Windows\TEMP
+     668 VBoxService.ex       0x0000000000276350 USERDOMAIN                     WORKGROUP
+     668 VBoxService.ex       0x0000000000276350 USERNAME                       VIRUS-PC$
+     668 VBoxService.ex       0x0000000000276350 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     668 VBoxService.ex       0x0000000000276350 windir                         C:\Windows
+     668 VBoxService.ex       0x0000000000276350 windows_tracing_flags          3
+     668 VBoxService.ex       0x0000000000276350 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     724 svchost.exe          0x0000000000181320 ALLUSERSPROFILE                C:\ProgramData
+     724 svchost.exe          0x0000000000181320 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     724 svchost.exe          0x0000000000181320 CommonProgramFiles             C:\Program Files\Common Files
+     724 svchost.exe          0x0000000000181320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     724 svchost.exe          0x0000000000181320 CommonProgramW6432             C:\Program Files\Common Files
+     724 svchost.exe          0x0000000000181320 COMPUTERNAME                   VIRUS-PC
+     724 svchost.exe          0x0000000000181320 ComSpec                        C:\Windows\system32\cmd.exe
+     724 svchost.exe          0x0000000000181320 FP_NO_HOST_CHECK               NO
+     724 svchost.exe          0x0000000000181320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     724 svchost.exe          0x0000000000181320 NUMBER_OF_PROCESSORS           1
+     724 svchost.exe          0x0000000000181320 OS                             Windows_NT
+     724 svchost.exe          0x0000000000181320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     724 svchost.exe          0x0000000000181320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     724 svchost.exe          0x0000000000181320 PROCESSOR_ARCHITECTURE         AMD64
+     724 svchost.exe          0x0000000000181320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     724 svchost.exe          0x0000000000181320 PROCESSOR_LEVEL                6
+     724 svchost.exe          0x0000000000181320 PROCESSOR_REVISION             9e0a
+     724 svchost.exe          0x0000000000181320 ProgramData                    C:\ProgramData
+     724 svchost.exe          0x0000000000181320 ProgramFiles                   C:\Program Files
+     724 svchost.exe          0x0000000000181320 ProgramFiles(x86)              C:\Program Files (x86)
+     724 svchost.exe          0x0000000000181320 ProgramW6432                   C:\Program Files
+     724 svchost.exe          0x0000000000181320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     724 svchost.exe          0x0000000000181320 PUBLIC                         C:\Users\Public
+     724 svchost.exe          0x0000000000181320 SystemDrive                    C:
+     724 svchost.exe          0x0000000000181320 SystemRoot                     C:\Windows
+     724 svchost.exe          0x0000000000181320 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     724 svchost.exe          0x0000000000181320 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     724 svchost.exe          0x0000000000181320 USERDOMAIN                     WORKGROUP
+     724 svchost.exe          0x0000000000181320 USERNAME                       VIRUS-PC$
+     724 svchost.exe          0x0000000000181320 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     724 svchost.exe          0x0000000000181320 windir                         C:\Windows
+     724 svchost.exe          0x0000000000181320 windows_tracing_flags          3
+     724 svchost.exe          0x0000000000181320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     780 svchost.exe          0x0000000000441320 ALLUSERSPROFILE                C:\ProgramData
+     780 svchost.exe          0x0000000000441320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     780 svchost.exe          0x0000000000441320 CommonProgramFiles             C:\Program Files\Common Files
+     780 svchost.exe          0x0000000000441320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     780 svchost.exe          0x0000000000441320 CommonProgramW6432             C:\Program Files\Common Files
+     780 svchost.exe          0x0000000000441320 COMPUTERNAME                   VIRUS-PC
+     780 svchost.exe          0x0000000000441320 ComSpec                        C:\Windows\system32\cmd.exe
+     780 svchost.exe          0x0000000000441320 FP_NO_HOST_CHECK               NO
+     780 svchost.exe          0x0000000000441320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     780 svchost.exe          0x0000000000441320 NUMBER_OF_PROCESSORS           1
+     780 svchost.exe          0x0000000000441320 OS                             Windows_NT
+     780 svchost.exe          0x0000000000441320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     780 svchost.exe          0x0000000000441320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     780 svchost.exe          0x0000000000441320 PROCESSOR_ARCHITECTURE         AMD64
+     780 svchost.exe          0x0000000000441320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     780 svchost.exe          0x0000000000441320 PROCESSOR_LEVEL                6
+     780 svchost.exe          0x0000000000441320 PROCESSOR_REVISION             9e0a
+     780 svchost.exe          0x0000000000441320 ProgramData                    C:\ProgramData
+     780 svchost.exe          0x0000000000441320 ProgramFiles                   C:\Program Files
+     780 svchost.exe          0x0000000000441320 ProgramFiles(x86)              C:\Program Files (x86)
+     780 svchost.exe          0x0000000000441320 ProgramW6432                   C:\Program Files
+     780 svchost.exe          0x0000000000441320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     780 svchost.exe          0x0000000000441320 PUBLIC                         C:\Users\Public
+     780 svchost.exe          0x0000000000441320 SystemDrive                    C:
+     780 svchost.exe          0x0000000000441320 SystemRoot                     C:\Windows
+     780 svchost.exe          0x0000000000441320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     780 svchost.exe          0x0000000000441320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     780 svchost.exe          0x0000000000441320 USERDOMAIN                     NT AUTHORITY
+     780 svchost.exe          0x0000000000441320 USERNAME                       LOCAL SERVICE
+     780 svchost.exe          0x0000000000441320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     780 svchost.exe          0x0000000000441320 windir                         C:\Windows
+     780 svchost.exe          0x0000000000441320 windows_tracing_flags          3
+     780 svchost.exe          0x0000000000441320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     896 svchost.exe          0x00000000002f1320 ALLUSERSPROFILE                C:\ProgramData
+     896 svchost.exe          0x00000000002f1320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     896 svchost.exe          0x00000000002f1320 CommonProgramFiles             C:\Program Files\Common Files
+     896 svchost.exe          0x00000000002f1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     896 svchost.exe          0x00000000002f1320 CommonProgramW6432             C:\Program Files\Common Files
+     896 svchost.exe          0x00000000002f1320 COMPUTERNAME                   VIRUS-PC
+     896 svchost.exe          0x00000000002f1320 ComSpec                        C:\Windows\system32\cmd.exe
+     896 svchost.exe          0x00000000002f1320 FP_NO_HOST_CHECK               NO
+     896 svchost.exe          0x00000000002f1320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     896 svchost.exe          0x00000000002f1320 NUMBER_OF_PROCESSORS           1
+     896 svchost.exe          0x00000000002f1320 OS                             Windows_NT
+     896 svchost.exe          0x00000000002f1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     896 svchost.exe          0x00000000002f1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     896 svchost.exe          0x00000000002f1320 PROCESSOR_ARCHITECTURE         AMD64
+     896 svchost.exe          0x00000000002f1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     896 svchost.exe          0x00000000002f1320 PROCESSOR_LEVEL                6
+     896 svchost.exe          0x00000000002f1320 PROCESSOR_REVISION             9e0a
+     896 svchost.exe          0x00000000002f1320 ProgramData                    C:\ProgramData
+     896 svchost.exe          0x00000000002f1320 ProgramFiles                   C:\Program Files
+     896 svchost.exe          0x00000000002f1320 ProgramFiles(x86)              C:\Program Files (x86)
+     896 svchost.exe          0x00000000002f1320 ProgramW6432                   C:\Program Files
+     896 svchost.exe          0x00000000002f1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     896 svchost.exe          0x00000000002f1320 PUBLIC                         C:\Users\Public
+     896 svchost.exe          0x00000000002f1320 SystemDrive                    C:
+     896 svchost.exe          0x00000000002f1320 SystemRoot                     C:\Windows
+     896 svchost.exe          0x00000000002f1320 TEMP                           C:\Windows\TEMP
+     896 svchost.exe          0x00000000002f1320 TMP                            C:\Windows\TEMP
+     896 svchost.exe          0x00000000002f1320 USERDOMAIN                     WORKGROUP
+     896 svchost.exe          0x00000000002f1320 USERNAME                       VIRUS-PC$
+     896 svchost.exe          0x00000000002f1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     896 svchost.exe          0x00000000002f1320 windir                         C:\Windows
+     896 svchost.exe          0x00000000002f1320 windows_tracing_flags          3
+     896 svchost.exe          0x00000000002f1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     948 svchost.exe          0x00000000002b1320 ALLUSERSPROFILE                C:\ProgramData
+     948 svchost.exe          0x00000000002b1320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     948 svchost.exe          0x00000000002b1320 CommonProgramFiles             C:\Program Files\Common Files
+     948 svchost.exe          0x00000000002b1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     948 svchost.exe          0x00000000002b1320 CommonProgramW6432             C:\Program Files\Common Files
+     948 svchost.exe          0x00000000002b1320 COMPUTERNAME                   VIRUS-PC
+     948 svchost.exe          0x00000000002b1320 ComSpec                        C:\Windows\system32\cmd.exe
+     948 svchost.exe          0x00000000002b1320 FP_NO_HOST_CHECK               NO
+     948 svchost.exe          0x00000000002b1320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     948 svchost.exe          0x00000000002b1320 NUMBER_OF_PROCESSORS           1
+     948 svchost.exe          0x00000000002b1320 OS                             Windows_NT
+     948 svchost.exe          0x00000000002b1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     948 svchost.exe          0x00000000002b1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     948 svchost.exe          0x00000000002b1320 PROCESSOR_ARCHITECTURE         AMD64
+     948 svchost.exe          0x00000000002b1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     948 svchost.exe          0x00000000002b1320 PROCESSOR_LEVEL                6
+     948 svchost.exe          0x00000000002b1320 PROCESSOR_REVISION             9e0a
+     948 svchost.exe          0x00000000002b1320 ProgramData                    C:\ProgramData
+     948 svchost.exe          0x00000000002b1320 ProgramFiles                   C:\Program Files
+     948 svchost.exe          0x00000000002b1320 ProgramFiles(x86)              C:\Program Files (x86)
+     948 svchost.exe          0x00000000002b1320 ProgramW6432                   C:\Program Files
+     948 svchost.exe          0x00000000002b1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     948 svchost.exe          0x00000000002b1320 PUBLIC                         C:\Users\Public
+     948 svchost.exe          0x00000000002b1320 SystemDrive                    C:
+     948 svchost.exe          0x00000000002b1320 SystemRoot                     C:\Windows
+     948 svchost.exe          0x00000000002b1320 TEMP                           C:\Windows\TEMP
+     948 svchost.exe          0x00000000002b1320 TMP                            C:\Windows\TEMP
+     948 svchost.exe          0x00000000002b1320 USERDOMAIN                     WORKGROUP
+     948 svchost.exe          0x00000000002b1320 USERNAME                       VIRUS-PC$
+     948 svchost.exe          0x00000000002b1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     948 svchost.exe          0x00000000002b1320 windir                         C:\Windows
+     948 svchost.exe          0x00000000002b1320 windows_tracing_flags          3
+     948 svchost.exe          0x00000000002b1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1008 audiodg.exe          0x00000000001f1320 Path                           C:\Windows\System32
+    1008 audiodg.exe          0x00000000001f1320 SystemDrive                    C:
+    1008 audiodg.exe          0x00000000001f1320 SystemRoot                     C:\Windows
+     400 svchost.exe          0x0000000000391320 ALLUSERSPROFILE                C:\ProgramData
+     400 svchost.exe          0x0000000000391320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     400 svchost.exe          0x0000000000391320 CommonProgramFiles             C:\Program Files\Common Files
+     400 svchost.exe          0x0000000000391320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     400 svchost.exe          0x0000000000391320 CommonProgramW6432             C:\Program Files\Common Files
+     400 svchost.exe          0x0000000000391320 COMPUTERNAME                   VIRUS-PC
+     400 svchost.exe          0x0000000000391320 ComSpec                        C:\Windows\system32\cmd.exe
+     400 svchost.exe          0x0000000000391320 FP_NO_HOST_CHECK               NO
+     400 svchost.exe          0x0000000000391320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     400 svchost.exe          0x0000000000391320 NUMBER_OF_PROCESSORS           1
+     400 svchost.exe          0x0000000000391320 OS                             Windows_NT
+     400 svchost.exe          0x0000000000391320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     400 svchost.exe          0x0000000000391320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     400 svchost.exe          0x0000000000391320 PROCESSOR_ARCHITECTURE         AMD64
+     400 svchost.exe          0x0000000000391320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     400 svchost.exe          0x0000000000391320 PROCESSOR_LEVEL                6
+     400 svchost.exe          0x0000000000391320 PROCESSOR_REVISION             9e0a
+     400 svchost.exe          0x0000000000391320 ProgramData                    C:\ProgramData
+     400 svchost.exe          0x0000000000391320 ProgramFiles                   C:\Program Files
+     400 svchost.exe          0x0000000000391320 ProgramFiles(x86)              C:\Program Files (x86)
+     400 svchost.exe          0x0000000000391320 ProgramW6432                   C:\Program Files
+     400 svchost.exe          0x0000000000391320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     400 svchost.exe          0x0000000000391320 PUBLIC                         C:\Users\Public
+     400 svchost.exe          0x0000000000391320 SystemDrive                    C:
+     400 svchost.exe          0x0000000000391320 SystemRoot                     C:\Windows
+     400 svchost.exe          0x0000000000391320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     400 svchost.exe          0x0000000000391320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     400 svchost.exe          0x0000000000391320 USERDOMAIN                     NT AUTHORITY
+     400 svchost.exe          0x0000000000391320 USERNAME                       LOCAL SERVICE
+     400 svchost.exe          0x0000000000391320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     400 svchost.exe          0x0000000000391320 windir                         C:\Windows
+     400 svchost.exe          0x0000000000391320 windows_tracing_flags          3
+     400 svchost.exe          0x0000000000391320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1052 svchost.exe          0x0000000000311320 ALLUSERSPROFILE                C:\ProgramData
+    1052 svchost.exe          0x0000000000311320 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1052 svchost.exe          0x0000000000311320 CommonProgramFiles             C:\Program Files\Common Files
+    1052 svchost.exe          0x0000000000311320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1052 svchost.exe          0x0000000000311320 CommonProgramW6432             C:\Program Files\Common Files
+    1052 svchost.exe          0x0000000000311320 COMPUTERNAME                   VIRUS-PC
+    1052 svchost.exe          0x0000000000311320 ComSpec                        C:\Windows\system32\cmd.exe
+    1052 svchost.exe          0x0000000000311320 FP_NO_HOST_CHECK               NO
+    1052 svchost.exe          0x0000000000311320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1052 svchost.exe          0x0000000000311320 NUMBER_OF_PROCESSORS           1
+    1052 svchost.exe          0x0000000000311320 OS                             Windows_NT
+    1052 svchost.exe          0x0000000000311320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1052 svchost.exe          0x0000000000311320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1052 svchost.exe          0x0000000000311320 PROCESSOR_ARCHITECTURE         AMD64
+    1052 svchost.exe          0x0000000000311320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1052 svchost.exe          0x0000000000311320 PROCESSOR_LEVEL                6
+    1052 svchost.exe          0x0000000000311320 PROCESSOR_REVISION             9e0a
+    1052 svchost.exe          0x0000000000311320 ProgramData                    C:\ProgramData
+    1052 svchost.exe          0x0000000000311320 ProgramFiles                   C:\Program Files
+    1052 svchost.exe          0x0000000000311320 ProgramFiles(x86)              C:\Program Files (x86)
+    1052 svchost.exe          0x0000000000311320 ProgramW6432                   C:\Program Files
+    1052 svchost.exe          0x0000000000311320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1052 svchost.exe          0x0000000000311320 PUBLIC                         C:\Users\Public
+    1052 svchost.exe          0x0000000000311320 SystemDrive                    C:
+    1052 svchost.exe          0x0000000000311320 SystemRoot                     C:\Windows
+    1052 svchost.exe          0x0000000000311320 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1052 svchost.exe          0x0000000000311320 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1052 svchost.exe          0x0000000000311320 USERDOMAIN                     WORKGROUP
+    1052 svchost.exe          0x0000000000311320 USERNAME                       VIRUS-PC$
+    1052 svchost.exe          0x0000000000311320 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1052 svchost.exe          0x0000000000311320 windir                         C:\Windows
+    1052 svchost.exe          0x0000000000311320 windows_tracing_flags          3
+    1052 svchost.exe          0x0000000000311320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1176 spoolsv.exe          0x0000000000241320 ALLUSERSPROFILE                C:\ProgramData
+    1176 spoolsv.exe          0x0000000000241320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1176 spoolsv.exe          0x0000000000241320 CommonProgramFiles             C:\Program Files\Common Files
+    1176 spoolsv.exe          0x0000000000241320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1176 spoolsv.exe          0x0000000000241320 CommonProgramW6432             C:\Program Files\Common Files
+    1176 spoolsv.exe          0x0000000000241320 COMPUTERNAME                   VIRUS-PC
+    1176 spoolsv.exe          0x0000000000241320 ComSpec                        C:\Windows\system32\cmd.exe
+    1176 spoolsv.exe          0x0000000000241320 FP_NO_HOST_CHECK               NO
+    1176 spoolsv.exe          0x0000000000241320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1176 spoolsv.exe          0x0000000000241320 NUMBER_OF_PROCESSORS           1
+    1176 spoolsv.exe          0x0000000000241320 OS                             Windows_NT
+    1176 spoolsv.exe          0x0000000000241320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1176 spoolsv.exe          0x0000000000241320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1176 spoolsv.exe          0x0000000000241320 PROCESSOR_ARCHITECTURE         AMD64
+    1176 spoolsv.exe          0x0000000000241320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1176 spoolsv.exe          0x0000000000241320 PROCESSOR_LEVEL                6
+    1176 spoolsv.exe          0x0000000000241320 PROCESSOR_REVISION             9e0a
+    1176 spoolsv.exe          0x0000000000241320 ProgramData                    C:\ProgramData
+    1176 spoolsv.exe          0x0000000000241320 ProgramFiles                   C:\Program Files
+    1176 spoolsv.exe          0x0000000000241320 ProgramFiles(x86)              C:\Program Files (x86)
+    1176 spoolsv.exe          0x0000000000241320 ProgramW6432                   C:\Program Files
+    1176 spoolsv.exe          0x0000000000241320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1176 spoolsv.exe          0x0000000000241320 PUBLIC                         C:\Users\Public
+    1176 spoolsv.exe          0x0000000000241320 SystemDrive                    C:
+    1176 spoolsv.exe          0x0000000000241320 SystemRoot                     C:\Windows
+    1176 spoolsv.exe          0x0000000000241320 TEMP                           C:\Windows\TEMP
+    1176 spoolsv.exe          0x0000000000241320 TMP                            C:\Windows\TEMP
+    1176 spoolsv.exe          0x0000000000241320 USERDOMAIN                     WORKGROUP
+    1176 spoolsv.exe          0x0000000000241320 USERNAME                       VIRUS-PC$
+    1176 spoolsv.exe          0x0000000000241320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1176 spoolsv.exe          0x0000000000241320 windir                         C:\Windows
+    1176 spoolsv.exe          0x0000000000241320 windows_tracing_flags          3
+    1176 spoolsv.exe          0x0000000000241320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1212 svchost.exe          0x00000000003c1320 ALLUSERSPROFILE                C:\ProgramData
+    1212 svchost.exe          0x00000000003c1320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1212 svchost.exe          0x00000000003c1320 CommonProgramFiles             C:\Program Files\Common Files
+    1212 svchost.exe          0x00000000003c1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1212 svchost.exe          0x00000000003c1320 CommonProgramW6432             C:\Program Files\Common Files
+    1212 svchost.exe          0x00000000003c1320 COMPUTERNAME                   VIRUS-PC
+    1212 svchost.exe          0x00000000003c1320 ComSpec                        C:\Windows\system32\cmd.exe
+    1212 svchost.exe          0x00000000003c1320 FP_NO_HOST_CHECK               NO
+    1212 svchost.exe          0x00000000003c1320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1212 svchost.exe          0x00000000003c1320 NUMBER_OF_PROCESSORS           1
+    1212 svchost.exe          0x00000000003c1320 OS                             Windows_NT
+    1212 svchost.exe          0x00000000003c1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1212 svchost.exe          0x00000000003c1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1212 svchost.exe          0x00000000003c1320 PROCESSOR_ARCHITECTURE         AMD64
+    1212 svchost.exe          0x00000000003c1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1212 svchost.exe          0x00000000003c1320 PROCESSOR_LEVEL                6
+    1212 svchost.exe          0x00000000003c1320 PROCESSOR_REVISION             9e0a
+    1212 svchost.exe          0x00000000003c1320 ProgramData                    C:\ProgramData
+    1212 svchost.exe          0x00000000003c1320 ProgramFiles                   C:\Program Files
+    1212 svchost.exe          0x00000000003c1320 ProgramFiles(x86)              C:\Program Files (x86)
+    1212 svchost.exe          0x00000000003c1320 ProgramW6432                   C:\Program Files
+    1212 svchost.exe          0x00000000003c1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1212 svchost.exe          0x00000000003c1320 PUBLIC                         C:\Users\Public
+    1212 svchost.exe          0x00000000003c1320 SystemDrive                    C:
+    1212 svchost.exe          0x00000000003c1320 SystemRoot                     C:\Windows
+    1212 svchost.exe          0x00000000003c1320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1212 svchost.exe          0x00000000003c1320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1212 svchost.exe          0x00000000003c1320 USERDOMAIN                     NT AUTHORITY
+    1212 svchost.exe          0x00000000003c1320 USERNAME                       LOCAL SERVICE
+    1212 svchost.exe          0x00000000003c1320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1212 svchost.exe          0x00000000003c1320 windir                         C:\Windows
+    1212 svchost.exe          0x00000000003c1320 windows_tracing_flags          3
+    1212 svchost.exe          0x00000000003c1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1308 svchost.exe          0x0000000000261320 ALLUSERSPROFILE                C:\ProgramData
+    1308 svchost.exe          0x0000000000261320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1308 svchost.exe          0x0000000000261320 CommonProgramFiles             C:\Program Files\Common Files
+    1308 svchost.exe          0x0000000000261320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1308 svchost.exe          0x0000000000261320 CommonProgramW6432             C:\Program Files\Common Files
+    1308 svchost.exe          0x0000000000261320 COMPUTERNAME                   VIRUS-PC
+    1308 svchost.exe          0x0000000000261320 ComSpec                        C:\Windows\system32\cmd.exe
+    1308 svchost.exe          0x0000000000261320 FP_NO_HOST_CHECK               NO
+    1308 svchost.exe          0x0000000000261320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1308 svchost.exe          0x0000000000261320 NUMBER_OF_PROCESSORS           1
+    1308 svchost.exe          0x0000000000261320 OS                             Windows_NT
+    1308 svchost.exe          0x0000000000261320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1308 svchost.exe          0x0000000000261320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1308 svchost.exe          0x0000000000261320 PROCESSOR_ARCHITECTURE         AMD64
+    1308 svchost.exe          0x0000000000261320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1308 svchost.exe          0x0000000000261320 PROCESSOR_LEVEL                6
+    1308 svchost.exe          0x0000000000261320 PROCESSOR_REVISION             9e0a
+    1308 svchost.exe          0x0000000000261320 ProgramData                    C:\ProgramData
+    1308 svchost.exe          0x0000000000261320 ProgramFiles                   C:\Program Files
+    1308 svchost.exe          0x0000000000261320 ProgramFiles(x86)              C:\Program Files (x86)
+    1308 svchost.exe          0x0000000000261320 ProgramW6432                   C:\Program Files
+    1308 svchost.exe          0x0000000000261320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1308 svchost.exe          0x0000000000261320 PUBLIC                         C:\Users\Public
+    1308 svchost.exe          0x0000000000261320 SystemDrive                    C:
+    1308 svchost.exe          0x0000000000261320 SystemRoot                     C:\Windows
+    1308 svchost.exe          0x0000000000261320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1308 svchost.exe          0x0000000000261320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1308 svchost.exe          0x0000000000261320 USERDOMAIN                     NT AUTHORITY
+    1308 svchost.exe          0x0000000000261320 USERNAME                       LOCAL SERVICE
+    1308 svchost.exe          0x0000000000261320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1308 svchost.exe          0x0000000000261320 windir                         C:\Windows
+    1308 svchost.exe          0x0000000000261320 windows_tracing_flags          3
+    1308 svchost.exe          0x0000000000261320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1812 taskhost.exe         0x0000000000231320 ALLUSERSPROFILE                C:\ProgramData
+    1812 taskhost.exe         0x0000000000231320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    1812 taskhost.exe         0x0000000000231320 CommonProgramFiles             C:\Program Files\Common Files
+    1812 taskhost.exe         0x0000000000231320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1812 taskhost.exe         0x0000000000231320 CommonProgramW6432             C:\Program Files\Common Files
+    1812 taskhost.exe         0x0000000000231320 COMPUTERNAME                   VIRUS-PC
+    1812 taskhost.exe         0x0000000000231320 ComSpec                        C:\Windows\system32\cmd.exe
+    1812 taskhost.exe         0x0000000000231320 FP_NO_HOST_CHECK               NO
+    1812 taskhost.exe         0x0000000000231320 HOMEDRIVE                      C:
+    1812 taskhost.exe         0x0000000000231320 HOMEPATH                       \Users\Jaffa
+    1812 taskhost.exe         0x0000000000231320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    1812 taskhost.exe         0x0000000000231320 LOGONSERVER                    \\VIRUS-PC
+    1812 taskhost.exe         0x0000000000231320 NUMBER_OF_PROCESSORS           1
+    1812 taskhost.exe         0x0000000000231320 OS                             Windows_NT
+    1812 taskhost.exe         0x0000000000231320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1812 taskhost.exe         0x0000000000231320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1812 taskhost.exe         0x0000000000231320 PROCESSOR_ARCHITECTURE         AMD64
+    1812 taskhost.exe         0x0000000000231320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1812 taskhost.exe         0x0000000000231320 PROCESSOR_LEVEL                6
+    1812 taskhost.exe         0x0000000000231320 PROCESSOR_REVISION             9e0a
+    1812 taskhost.exe         0x0000000000231320 ProgramData                    C:\ProgramData
+    1812 taskhost.exe         0x0000000000231320 ProgramFiles                   C:\Program Files
+    1812 taskhost.exe         0x0000000000231320 ProgramFiles(x86)              C:\Program Files (x86)
+    1812 taskhost.exe         0x0000000000231320 ProgramW6432                   C:\Program Files
+    1812 taskhost.exe         0x0000000000231320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1812 taskhost.exe         0x0000000000231320 PUBLIC                         C:\Users\Public
+    1812 taskhost.exe         0x0000000000231320 RAR password                   easypeasyvirus
+    1812 taskhost.exe         0x0000000000231320 SystemDrive                    C:
+    1812 taskhost.exe         0x0000000000231320 SystemRoot                     C:\Windows
+    1812 taskhost.exe         0x0000000000231320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    1812 taskhost.exe         0x0000000000231320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    1812 taskhost.exe         0x0000000000231320 USERDOMAIN                     VIRUS-PC
+    1812 taskhost.exe         0x0000000000231320 USERNAME                       Jaffa
+    1812 taskhost.exe         0x0000000000231320 USERPROFILE                    C:\Users\Jaffa
+    1812 taskhost.exe         0x0000000000231320 windir                         C:\Windows
+    1812 taskhost.exe         0x0000000000231320 windows_tracing_flags          3
+    1812 taskhost.exe         0x0000000000231320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1868 dwm.exe              0x0000000000371320 ALLUSERSPROFILE                C:\ProgramData
+    1868 dwm.exe              0x0000000000371320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    1868 dwm.exe              0x0000000000371320 CommonProgramFiles             C:\Program Files\Common Files
+    1868 dwm.exe              0x0000000000371320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1868 dwm.exe              0x0000000000371320 CommonProgramW6432             C:\Program Files\Common Files
+    1868 dwm.exe              0x0000000000371320 COMPUTERNAME                   VIRUS-PC
+    1868 dwm.exe              0x0000000000371320 ComSpec                        C:\Windows\system32\cmd.exe
+    1868 dwm.exe              0x0000000000371320 FP_NO_HOST_CHECK               NO
+    1868 dwm.exe              0x0000000000371320 HOMEDRIVE                      C:
+    1868 dwm.exe              0x0000000000371320 HOMEPATH                       \Users\Jaffa
+    1868 dwm.exe              0x0000000000371320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    1868 dwm.exe              0x0000000000371320 LOGONSERVER                    \\VIRUS-PC
+    1868 dwm.exe              0x0000000000371320 NUMBER_OF_PROCESSORS           1
+    1868 dwm.exe              0x0000000000371320 OS                             Windows_NT
+    1868 dwm.exe              0x0000000000371320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1868 dwm.exe              0x0000000000371320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1868 dwm.exe              0x0000000000371320 PROCESSOR_ARCHITECTURE         AMD64
+    1868 dwm.exe              0x0000000000371320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1868 dwm.exe              0x0000000000371320 PROCESSOR_LEVEL                6
+    1868 dwm.exe              0x0000000000371320 PROCESSOR_REVISION             9e0a
+    1868 dwm.exe              0x0000000000371320 ProgramData                    C:\ProgramData
+    1868 dwm.exe              0x0000000000371320 ProgramFiles                   C:\Program Files
+    1868 dwm.exe              0x0000000000371320 ProgramFiles(x86)              C:\Program Files (x86)
+    1868 dwm.exe              0x0000000000371320 ProgramW6432                   C:\Program Files
+    1868 dwm.exe              0x0000000000371320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1868 dwm.exe              0x0000000000371320 PUBLIC                         C:\Users\Public
+    1868 dwm.exe              0x0000000000371320 RAR password                   easypeasyvirus
+    1868 dwm.exe              0x0000000000371320 SystemDrive                    C:
+    1868 dwm.exe              0x0000000000371320 SystemRoot                     C:\Windows
+    1868 dwm.exe              0x0000000000371320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    1868 dwm.exe              0x0000000000371320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    1868 dwm.exe              0x0000000000371320 USERDOMAIN                     VIRUS-PC
+    1868 dwm.exe              0x0000000000371320 USERNAME                       Jaffa
+    1868 dwm.exe              0x0000000000371320 USERPROFILE                    C:\Users\Jaffa
+    1868 dwm.exe              0x0000000000371320 windir                         C:\Windows
+    1868 dwm.exe              0x0000000000371320 windows_tracing_flags          3
+    1868 dwm.exe              0x0000000000371320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1876 taskeng.exe          0x0000000000271320 ALLUSERSPROFILE                C:\ProgramData
+    1876 taskeng.exe          0x0000000000271320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1876 taskeng.exe          0x0000000000271320 CommonProgramFiles             C:\Program Files\Common Files
+    1876 taskeng.exe          0x0000000000271320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1876 taskeng.exe          0x0000000000271320 CommonProgramW6432             C:\Program Files\Common Files
+    1876 taskeng.exe          0x0000000000271320 COMPUTERNAME                   VIRUS-PC
+    1876 taskeng.exe          0x0000000000271320 ComSpec                        C:\Windows\system32\cmd.exe
+    1876 taskeng.exe          0x0000000000271320 FP_NO_HOST_CHECK               NO
+    1876 taskeng.exe          0x0000000000271320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1876 taskeng.exe          0x0000000000271320 NUMBER_OF_PROCESSORS           1
+    1876 taskeng.exe          0x0000000000271320 OS                             Windows_NT
+    1876 taskeng.exe          0x0000000000271320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1876 taskeng.exe          0x0000000000271320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1876 taskeng.exe          0x0000000000271320 PROCESSOR_ARCHITECTURE         AMD64
+    1876 taskeng.exe          0x0000000000271320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1876 taskeng.exe          0x0000000000271320 PROCESSOR_LEVEL                6
+    1876 taskeng.exe          0x0000000000271320 PROCESSOR_REVISION             9e0a
+    1876 taskeng.exe          0x0000000000271320 ProgramData                    C:\ProgramData
+    1876 taskeng.exe          0x0000000000271320 ProgramFiles                   C:\Program Files
+    1876 taskeng.exe          0x0000000000271320 ProgramFiles(x86)              C:\Program Files (x86)
+    1876 taskeng.exe          0x0000000000271320 ProgramW6432                   C:\Program Files
+    1876 taskeng.exe          0x0000000000271320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1876 taskeng.exe          0x0000000000271320 PUBLIC                         C:\Users\Public
+    1876 taskeng.exe          0x0000000000271320 SystemDrive                    C:
+    1876 taskeng.exe          0x0000000000271320 SystemRoot                     C:\Windows
+    1876 taskeng.exe          0x0000000000271320 TEMP                           C:\Windows\TEMP
+    1876 taskeng.exe          0x0000000000271320 TMP                            C:\Windows\TEMP
+    1876 taskeng.exe          0x0000000000271320 USERDOMAIN                     WORKGROUP
+    1876 taskeng.exe          0x0000000000271320 USERNAME                       VIRUS-PC$
+    1876 taskeng.exe          0x0000000000271320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1876 taskeng.exe          0x0000000000271320 windir                         C:\Windows
+    1876 taskeng.exe          0x0000000000271320 windows_tracing_flags          3
+    1876 taskeng.exe          0x0000000000271320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1944 explorer.exe         0x0000000000111880 ALLUSERSPROFILE                C:\ProgramData
+    1944 explorer.exe         0x0000000000111880 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    1944 explorer.exe         0x0000000000111880 CommonProgramFiles             C:\Program Files\Common Files
+    1944 explorer.exe         0x0000000000111880 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1944 explorer.exe         0x0000000000111880 CommonProgramW6432             C:\Program Files\Common Files
+    1944 explorer.exe         0x0000000000111880 COMPUTERNAME                   VIRUS-PC
+    1944 explorer.exe         0x0000000000111880 ComSpec                        C:\Windows\system32\cmd.exe
+    1944 explorer.exe         0x0000000000111880 FP_NO_HOST_CHECK               NO
+    1944 explorer.exe         0x0000000000111880 HOMEDRIVE                      C:
+    1944 explorer.exe         0x0000000000111880 HOMEPATH                       \Users\Jaffa
+    1944 explorer.exe         0x0000000000111880 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    1944 explorer.exe         0x0000000000111880 LOGONSERVER                    \\VIRUS-PC
+    1944 explorer.exe         0x0000000000111880 NUMBER_OF_PROCESSORS           1
+    1944 explorer.exe         0x0000000000111880 OS                             Windows_NT
+    1944 explorer.exe         0x0000000000111880 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1944 explorer.exe         0x0000000000111880 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1944 explorer.exe         0x0000000000111880 PROCESSOR_ARCHITECTURE         AMD64
+    1944 explorer.exe         0x0000000000111880 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1944 explorer.exe         0x0000000000111880 PROCESSOR_LEVEL                6
+    1944 explorer.exe         0x0000000000111880 PROCESSOR_REVISION             9e0a
+    1944 explorer.exe         0x0000000000111880 ProgramData                    C:\ProgramData
+    1944 explorer.exe         0x0000000000111880 ProgramFiles                   C:\Program Files
+    1944 explorer.exe         0x0000000000111880 ProgramFiles(x86)              C:\Program Files (x86)
+    1944 explorer.exe         0x0000000000111880 ProgramW6432                   C:\Program Files
+    1944 explorer.exe         0x0000000000111880 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1944 explorer.exe         0x0000000000111880 PUBLIC                         C:\Users\Public
+    1944 explorer.exe         0x0000000000111880 RAR password                   easypeasyvirus
+    1944 explorer.exe         0x0000000000111880 SESSIONNAME                    Console
+    1944 explorer.exe         0x0000000000111880 SystemDrive                    C:
+    1944 explorer.exe         0x0000000000111880 SystemRoot                     C:\Windows
+    1944 explorer.exe         0x0000000000111880 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    1944 explorer.exe         0x0000000000111880 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    1944 explorer.exe         0x0000000000111880 USERDOMAIN                     VIRUS-PC
+    1944 explorer.exe         0x0000000000111880 USERNAME                       Jaffa
+    1944 explorer.exe         0x0000000000111880 USERPROFILE                    C:\Users\Jaffa
+    1944 explorer.exe         0x0000000000111880 windir                         C:\Windows
+    1944 explorer.exe         0x0000000000111880 windows_tracing_flags          3
+    1944 explorer.exe         0x0000000000111880 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1292 GoogleCrashHan       0x0000000000381320 ALLUSERSPROFILE                C:\ProgramData
+    1292 GoogleCrashHan       0x0000000000381320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1292 GoogleCrashHan       0x0000000000381320 CommonProgramFiles             C:\Program Files\Common Files
+    1292 GoogleCrashHan       0x0000000000381320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1292 GoogleCrashHan       0x0000000000381320 CommonProgramW6432             C:\Program Files\Common Files
+    1292 GoogleCrashHan       0x0000000000381320 COMPUTERNAME                   VIRUS-PC
+    1292 GoogleCrashHan       0x0000000000381320 ComSpec                        C:\Windows\system32\cmd.exe
+    1292 GoogleCrashHan       0x0000000000381320 FP_NO_HOST_CHECK               NO
+    1292 GoogleCrashHan       0x0000000000381320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1292 GoogleCrashHan       0x0000000000381320 NUMBER_OF_PROCESSORS           1
+    1292 GoogleCrashHan       0x0000000000381320 OS                             Windows_NT
+    1292 GoogleCrashHan       0x0000000000381320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1292 GoogleCrashHan       0x0000000000381320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1292 GoogleCrashHan       0x0000000000381320 PROCESSOR_ARCHITECTURE         AMD64
+    1292 GoogleCrashHan       0x0000000000381320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1292 GoogleCrashHan       0x0000000000381320 PROCESSOR_LEVEL                6
+    1292 GoogleCrashHan       0x0000000000381320 PROCESSOR_REVISION             9e0a
+    1292 GoogleCrashHan       0x0000000000381320 ProgramData                    C:\ProgramData
+    1292 GoogleCrashHan       0x0000000000381320 ProgramFiles                   C:\Program Files
+    1292 GoogleCrashHan       0x0000000000381320 ProgramFiles(x86)              C:\Program Files (x86)
+    1292 GoogleCrashHan       0x0000000000381320 ProgramW6432                   C:\Program Files
+    1292 GoogleCrashHan       0x0000000000381320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1292 GoogleCrashHan       0x0000000000381320 PUBLIC                         C:\Users\Public
+    1292 GoogleCrashHan       0x0000000000381320 SystemDrive                    C:
+    1292 GoogleCrashHan       0x0000000000381320 SystemRoot                     C:\Windows
+    1292 GoogleCrashHan       0x0000000000381320 TEMP                           C:\Windows\TEMP
+    1292 GoogleCrashHan       0x0000000000381320 TMP                            C:\Windows\TEMP
+    1292 GoogleCrashHan       0x0000000000381320 USERDOMAIN                     WORKGROUP
+    1292 GoogleCrashHan       0x0000000000381320 USERNAME                       VIRUS-PC$
+    1292 GoogleCrashHan       0x0000000000381320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1292 GoogleCrashHan       0x0000000000381320 windir                         C:\Windows
+    1292 GoogleCrashHan       0x0000000000381320 windows_tracing_flags          3
+    1292 GoogleCrashHan       0x0000000000381320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     924 GoogleCrashHan       0x0000000000461320 ALLUSERSPROFILE                C:\ProgramData
+     924 GoogleCrashHan       0x0000000000461320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     924 GoogleCrashHan       0x0000000000461320 CommonProgramFiles             C:\Program Files\Common Files
+     924 GoogleCrashHan       0x0000000000461320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     924 GoogleCrashHan       0x0000000000461320 CommonProgramW6432             C:\Program Files\Common Files
+     924 GoogleCrashHan       0x0000000000461320 COMPUTERNAME                   VIRUS-PC
+     924 GoogleCrashHan       0x0000000000461320 ComSpec                        C:\Windows\system32\cmd.exe
+     924 GoogleCrashHan       0x0000000000461320 FP_NO_HOST_CHECK               NO
+     924 GoogleCrashHan       0x0000000000461320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     924 GoogleCrashHan       0x0000000000461320 NUMBER_OF_PROCESSORS           1
+     924 GoogleCrashHan       0x0000000000461320 OS                             Windows_NT
+     924 GoogleCrashHan       0x0000000000461320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     924 GoogleCrashHan       0x0000000000461320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     924 GoogleCrashHan       0x0000000000461320 PROCESSOR_ARCHITECTURE         AMD64
+     924 GoogleCrashHan       0x0000000000461320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     924 GoogleCrashHan       0x0000000000461320 PROCESSOR_LEVEL                6
+     924 GoogleCrashHan       0x0000000000461320 PROCESSOR_REVISION             9e0a
+     924 GoogleCrashHan       0x0000000000461320 ProgramData                    C:\ProgramData
+     924 GoogleCrashHan       0x0000000000461320 ProgramFiles                   C:\Program Files
+     924 GoogleCrashHan       0x0000000000461320 ProgramFiles(x86)              C:\Program Files (x86)
+     924 GoogleCrashHan       0x0000000000461320 ProgramW6432                   C:\Program Files
+     924 GoogleCrashHan       0x0000000000461320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     924 GoogleCrashHan       0x0000000000461320 PUBLIC                         C:\Users\Public
+     924 GoogleCrashHan       0x0000000000461320 SystemDrive                    C:
+     924 GoogleCrashHan       0x0000000000461320 SystemRoot                     C:\Windows
+     924 GoogleCrashHan       0x0000000000461320 TEMP                           C:\Windows\TEMP
+     924 GoogleCrashHan       0x0000000000461320 TMP                            C:\Windows\TEMP
+     924 GoogleCrashHan       0x0000000000461320 USERDOMAIN                     WORKGROUP
+     924 GoogleCrashHan       0x0000000000461320 USERNAME                       VIRUS-PC$
+     924 GoogleCrashHan       0x0000000000461320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     924 GoogleCrashHan       0x0000000000461320 windir                         C:\Windows
+     924 GoogleCrashHan       0x0000000000461320 windows_tracing_flags          3
+     924 GoogleCrashHan       0x0000000000461320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1108 VBoxTray.exe         0x0000000000471320 ALLUSERSPROFILE                C:\ProgramData
+    1108 VBoxTray.exe         0x0000000000471320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    1108 VBoxTray.exe         0x0000000000471320 CommonProgramFiles             C:\Program Files\Common Files
+    1108 VBoxTray.exe         0x0000000000471320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1108 VBoxTray.exe         0x0000000000471320 CommonProgramW6432             C:\Program Files\Common Files
+    1108 VBoxTray.exe         0x0000000000471320 COMPUTERNAME                   VIRUS-PC
+    1108 VBoxTray.exe         0x0000000000471320 ComSpec                        C:\Windows\system32\cmd.exe
+    1108 VBoxTray.exe         0x0000000000471320 FP_NO_HOST_CHECK               NO
+    1108 VBoxTray.exe         0x0000000000471320 HOMEDRIVE                      C:
+    1108 VBoxTray.exe         0x0000000000471320 HOMEPATH                       \Users\Jaffa
+    1108 VBoxTray.exe         0x0000000000471320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    1108 VBoxTray.exe         0x0000000000471320 LOGONSERVER                    \\VIRUS-PC
+    1108 VBoxTray.exe         0x0000000000471320 NUMBER_OF_PROCESSORS           1
+    1108 VBoxTray.exe         0x0000000000471320 OS                             Windows_NT
+    1108 VBoxTray.exe         0x0000000000471320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1108 VBoxTray.exe         0x0000000000471320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1108 VBoxTray.exe         0x0000000000471320 PROCESSOR_ARCHITECTURE         AMD64
+    1108 VBoxTray.exe         0x0000000000471320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1108 VBoxTray.exe         0x0000000000471320 PROCESSOR_LEVEL                6
+    1108 VBoxTray.exe         0x0000000000471320 PROCESSOR_REVISION             9e0a
+    1108 VBoxTray.exe         0x0000000000471320 ProgramData                    C:\ProgramData
+    1108 VBoxTray.exe         0x0000000000471320 ProgramFiles                   C:\Program Files
+    1108 VBoxTray.exe         0x0000000000471320 ProgramFiles(x86)              C:\Program Files (x86)
+    1108 VBoxTray.exe         0x0000000000471320 ProgramW6432                   C:\Program Files
+    1108 VBoxTray.exe         0x0000000000471320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1108 VBoxTray.exe         0x0000000000471320 PUBLIC                         C:\Users\Public
+    1108 VBoxTray.exe         0x0000000000471320 RAR password                   easypeasyvirus
+    1108 VBoxTray.exe         0x0000000000471320 SESSIONNAME                    Console
+    1108 VBoxTray.exe         0x0000000000471320 SystemDrive                    C:
+    1108 VBoxTray.exe         0x0000000000471320 SystemRoot                     C:\Windows
+    1108 VBoxTray.exe         0x0000000000471320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    1108 VBoxTray.exe         0x0000000000471320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    1108 VBoxTray.exe         0x0000000000471320 USERDOMAIN                     VIRUS-PC
+    1108 VBoxTray.exe         0x0000000000471320 USERNAME                       Jaffa
+    1108 VBoxTray.exe         0x0000000000471320 USERPROFILE                    C:\Users\Jaffa
+    1108 VBoxTray.exe         0x0000000000471320 windir                         C:\Windows
+    1108 VBoxTray.exe         0x0000000000471320 windows_tracing_flags          3
+    1108 VBoxTray.exe         0x0000000000471320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     880 cmd.exe              0x000000000018caa0 ALLUSERSPROFILE                C:\ProgramData
+     880 cmd.exe              0x000000000018caa0 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+     880 cmd.exe              0x000000000018caa0 CommonProgramFiles             C:\Program Files\Common Files
+     880 cmd.exe              0x000000000018caa0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     880 cmd.exe              0x000000000018caa0 CommonProgramW6432             C:\Program Files\Common Files
+     880 cmd.exe              0x000000000018caa0 COMPUTERNAME                   VIRUS-PC
+     880 cmd.exe              0x000000000018caa0 ComSpec                        C:\Windows\system32\cmd.exe
+     880 cmd.exe              0x000000000018caa0 FP_NO_HOST_CHECK               NO
+     880 cmd.exe              0x000000000018caa0 HOMEDRIVE                      C:
+     880 cmd.exe              0x000000000018caa0 HOMEPATH                       \Users\Jaffa
+     880 cmd.exe              0x000000000018caa0 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+     880 cmd.exe              0x000000000018caa0 LOGONSERVER                    \\VIRUS-PC
+     880 cmd.exe              0x000000000018caa0 NUMBER_OF_PROCESSORS           1
+     880 cmd.exe              0x000000000018caa0 OS                             Windows_NT
+     880 cmd.exe              0x000000000018caa0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     880 cmd.exe              0x000000000018caa0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     880 cmd.exe              0x000000000018caa0 PROCESSOR_ARCHITECTURE         AMD64
+     880 cmd.exe              0x000000000018caa0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     880 cmd.exe              0x000000000018caa0 PROCESSOR_LEVEL                6
+     880 cmd.exe              0x000000000018caa0 PROCESSOR_REVISION             9e0a
+     880 cmd.exe              0x000000000018caa0 ProgramData                    C:\ProgramData
+     880 cmd.exe              0x000000000018caa0 ProgramFiles                   C:\Program Files
+     880 cmd.exe              0x000000000018caa0 ProgramFiles(x86)              C:\Program Files (x86)
+     880 cmd.exe              0x000000000018caa0 ProgramW6432                   C:\Program Files
+     880 cmd.exe              0x000000000018caa0 PROMPT                         $P$G
+     880 cmd.exe              0x000000000018caa0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     880 cmd.exe              0x000000000018caa0 PUBLIC                         C:\Users\Public
+     880 cmd.exe              0x000000000018caa0 RAR password                   easypeasyvirus
+     880 cmd.exe              0x000000000018caa0 SESSIONNAME                    Console
+     880 cmd.exe              0x000000000018caa0 SystemDrive                    C:
+     880 cmd.exe              0x000000000018caa0 SystemRoot                     C:\Windows
+     880 cmd.exe              0x000000000018caa0 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+     880 cmd.exe              0x000000000018caa0 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+     880 cmd.exe              0x000000000018caa0 USERDOMAIN                     VIRUS-PC
+     880 cmd.exe              0x000000000018caa0 USERNAME                       Jaffa
+     880 cmd.exe              0x000000000018caa0 USERPROFILE                    C:\Users\Jaffa
+     880 cmd.exe              0x000000000018caa0 windir                         C:\Windows
+     880 cmd.exe              0x000000000018caa0 windows_tracing_flags          3
+     880 cmd.exe              0x000000000018caa0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     916 conhost.exe          0x00000000001dd7a0 CommonProgramFiles             C:\Program Files\Common Files
+     916 conhost.exe          0x00000000001dd7a0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     916 conhost.exe          0x00000000001dd7a0 CommonProgramW6432             C:\Program Files\Common Files
+     916 conhost.exe          0x00000000001dd7a0 ComSpec                        C:\Windows\system32\cmd.exe
+     916 conhost.exe          0x00000000001dd7a0 FP_NO_HOST_CHECK               NO
+     916 conhost.exe          0x00000000001dd7a0 NUMBER_OF_PROCESSORS           1
+     916 conhost.exe          0x00000000001dd7a0 OS                             Windows_NT
+     916 conhost.exe          0x00000000001dd7a0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     916 conhost.exe          0x00000000001dd7a0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     916 conhost.exe          0x00000000001dd7a0 PROCESSOR_ARCHITECTURE         AMD64
+     916 conhost.exe          0x00000000001dd7a0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     916 conhost.exe          0x00000000001dd7a0 PROCESSOR_LEVEL                6
+     916 conhost.exe          0x00000000001dd7a0 PROCESSOR_REVISION             9e0a
+     916 conhost.exe          0x00000000001dd7a0 ProgramFiles                   C:\Program Files
+     916 conhost.exe          0x00000000001dd7a0 ProgramFiles(x86)              C:\Program Files (x86)
+     916 conhost.exe          0x00000000001dd7a0 ProgramW6432                   C:\Program Files
+     916 conhost.exe          0x00000000001dd7a0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     916 conhost.exe          0x00000000001dd7a0 SystemDrive                    C:
+     916 conhost.exe          0x00000000001dd7a0 SystemRoot                     C:\Windows
+     916 conhost.exe          0x00000000001dd7a0 TEMP                           C:\Windows\TEMP
+     916 conhost.exe          0x00000000001dd7a0 TMP                            C:\Windows\TEMP
+     916 conhost.exe          0x00000000001dd7a0 USERNAME                       SYSTEM
+     916 conhost.exe          0x00000000001dd7a0 windir                         C:\Windows
+     916 conhost.exe          0x00000000001dd7a0 windows_tracing_flags          3
+     916 conhost.exe          0x00000000001dd7a0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     856 SearchIndexer.       0x0000000000389f70 ALLUSERSPROFILE                C:\ProgramData
+     856 SearchIndexer.       0x0000000000389f70 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     856 SearchIndexer.       0x0000000000389f70 CommonProgramFiles             C:\Program Files\Common Files
+     856 SearchIndexer.       0x0000000000389f70 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     856 SearchIndexer.       0x0000000000389f70 CommonProgramW6432             C:\Program Files\Common Files
+     856 SearchIndexer.       0x0000000000389f70 COMPUTERNAME                   VIRUS-PC
+     856 SearchIndexer.       0x0000000000389f70 ComSpec                        C:\Windows\system32\cmd.exe
+     856 SearchIndexer.       0x0000000000389f70 FP_NO_HOST_CHECK               NO
+     856 SearchIndexer.       0x0000000000389f70 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     856 SearchIndexer.       0x0000000000389f70 NUMBER_OF_PROCESSORS           1
+     856 SearchIndexer.       0x0000000000389f70 OS                             Windows_NT
+     856 SearchIndexer.       0x0000000000389f70 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32
+     856 SearchIndexer.       0x0000000000389f70 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     856 SearchIndexer.       0x0000000000389f70 PROCESSOR_ARCHITECTURE         AMD64
+     856 SearchIndexer.       0x0000000000389f70 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     856 SearchIndexer.       0x0000000000389f70 PROCESSOR_LEVEL                6
+     856 SearchIndexer.       0x0000000000389f70 PROCESSOR_REVISION             9e0a
+     856 SearchIndexer.       0x0000000000389f70 ProgramData                    C:\ProgramData
+     856 SearchIndexer.       0x0000000000389f70 ProgramFiles                   C:\Program Files
+     856 SearchIndexer.       0x0000000000389f70 ProgramFiles(x86)              C:\Program Files (x86)
+     856 SearchIndexer.       0x0000000000389f70 ProgramW6432                   C:\Program Files
+     856 SearchIndexer.       0x0000000000389f70 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     856 SearchIndexer.       0x0000000000389f70 PUBLIC                         C:\Users\Public
+     856 SearchIndexer.       0x0000000000389f70 SystemDrive                    C:
+     856 SearchIndexer.       0x0000000000389f70 SystemRoot                     C:\Windows
+     856 SearchIndexer.       0x0000000000389f70 TEMP                           C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+     856 SearchIndexer.       0x0000000000389f70 TMP                            C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+     856 SearchIndexer.       0x0000000000389f70 USERDOMAIN                     WORKGROUP
+     856 SearchIndexer.       0x0000000000389f70 USERNAME                       VIRUS-PC$
+     856 SearchIndexer.       0x0000000000389f70 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     856 SearchIndexer.       0x0000000000389f70 windir                         C:\Windows
+     856 SearchIndexer.       0x0000000000389f70 windows_tracing_flags          3
+     856 SearchIndexer.       0x0000000000389f70 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2124 chrome.exe           0x00000000003453f0 ALLUSERSPROFILE                C:\ProgramData
+    2124 chrome.exe           0x00000000003453f0 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2124 chrome.exe           0x00000000003453f0 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2124_HYPTHIKRKHINVSMY
+    2124 chrome.exe           0x00000000003453f0 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    2124 chrome.exe           0x00000000003453f0 CommonProgramFiles             C:\Program Files\Common Files
+    2124 chrome.exe           0x00000000003453f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2124 chrome.exe           0x00000000003453f0 CommonProgramW6432             C:\Program Files\Common Files
+    2124 chrome.exe           0x00000000003453f0 COMPUTERNAME                   VIRUS-PC
+    2124 chrome.exe           0x00000000003453f0 ComSpec                        C:\Windows\system32\cmd.exe
+    2124 chrome.exe           0x00000000003453f0 FP_NO_HOST_CHECK               NO
+    2124 chrome.exe           0x00000000003453f0 HOMEDRIVE                      C:
+    2124 chrome.exe           0x00000000003453f0 HOMEPATH                       \Users\Jaffa
+    2124 chrome.exe           0x00000000003453f0 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2124 chrome.exe           0x00000000003453f0 LOGONSERVER                    \\VIRUS-PC
+    2124 chrome.exe           0x00000000003453f0 NUMBER_OF_PROCESSORS           1
+    2124 chrome.exe           0x00000000003453f0 OS                             Windows_NT
+    2124 chrome.exe           0x00000000003453f0 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2124 chrome.exe           0x00000000003453f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2124 chrome.exe           0x00000000003453f0 PROCESSOR_ARCHITECTURE         AMD64
+    2124 chrome.exe           0x00000000003453f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2124 chrome.exe           0x00000000003453f0 PROCESSOR_LEVEL                6
+    2124 chrome.exe           0x00000000003453f0 PROCESSOR_REVISION             9e0a
+    2124 chrome.exe           0x00000000003453f0 ProgramData                    C:\ProgramData
+    2124 chrome.exe           0x00000000003453f0 ProgramFiles                   C:\Program Files
+    2124 chrome.exe           0x00000000003453f0 ProgramFiles(x86)              C:\Program Files (x86)
+    2124 chrome.exe           0x00000000003453f0 ProgramW6432                   C:\Program Files
+    2124 chrome.exe           0x00000000003453f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2124 chrome.exe           0x00000000003453f0 PUBLIC                         C:\Users\Public
+    2124 chrome.exe           0x00000000003453f0 RAR password                   easypeasyvirus
+    2124 chrome.exe           0x00000000003453f0 SESSIONNAME                    Console
+    2124 chrome.exe           0x00000000003453f0 SystemDrive                    C:
+    2124 chrome.exe           0x00000000003453f0 SystemRoot                     C:\Windows
+    2124 chrome.exe           0x00000000003453f0 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2124 chrome.exe           0x00000000003453f0 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2124 chrome.exe           0x00000000003453f0 USERDOMAIN                     VIRUS-PC
+    2124 chrome.exe           0x00000000003453f0 USERNAME                       Jaffa
+    2124 chrome.exe           0x00000000003453f0 USERPROFILE                    C:\Users\Jaffa
+    2124 chrome.exe           0x00000000003453f0 windir                         C:\Windows
+    2124 chrome.exe           0x00000000003453f0 windows_tracing_flags          3
+    2124 chrome.exe           0x00000000003453f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2132 chrome.exe           0x0000000000561320 ALLUSERSPROFILE                C:\ProgramData
+    2132 chrome.exe           0x0000000000561320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2132 chrome.exe           0x0000000000561320 CommonProgramFiles             C:\Program Files\Common Files
+    2132 chrome.exe           0x0000000000561320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2132 chrome.exe           0x0000000000561320 CommonProgramW6432             C:\Program Files\Common Files
+    2132 chrome.exe           0x0000000000561320 COMPUTERNAME                   VIRUS-PC
+    2132 chrome.exe           0x0000000000561320 ComSpec                        C:\Windows\system32\cmd.exe
+    2132 chrome.exe           0x0000000000561320 FP_NO_HOST_CHECK               NO
+    2132 chrome.exe           0x0000000000561320 HOMEDRIVE                      C:
+    2132 chrome.exe           0x0000000000561320 HOMEPATH                       \Users\Jaffa
+    2132 chrome.exe           0x0000000000561320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2132 chrome.exe           0x0000000000561320 LOGONSERVER                    \\VIRUS-PC
+    2132 chrome.exe           0x0000000000561320 NUMBER_OF_PROCESSORS           1
+    2132 chrome.exe           0x0000000000561320 OS                             Windows_NT
+    2132 chrome.exe           0x0000000000561320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2132 chrome.exe           0x0000000000561320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2132 chrome.exe           0x0000000000561320 PROCESSOR_ARCHITECTURE         AMD64
+    2132 chrome.exe           0x0000000000561320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2132 chrome.exe           0x0000000000561320 PROCESSOR_LEVEL                6
+    2132 chrome.exe           0x0000000000561320 PROCESSOR_REVISION             9e0a
+    2132 chrome.exe           0x0000000000561320 ProgramData                    C:\ProgramData
+    2132 chrome.exe           0x0000000000561320 ProgramFiles                   C:\Program Files
+    2132 chrome.exe           0x0000000000561320 ProgramFiles(x86)              C:\Program Files (x86)
+    2132 chrome.exe           0x0000000000561320 ProgramW6432                   C:\Program Files
+    2132 chrome.exe           0x0000000000561320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2132 chrome.exe           0x0000000000561320 PUBLIC                         C:\Users\Public
+    2132 chrome.exe           0x0000000000561320 RAR password                   easypeasyvirus
+    2132 chrome.exe           0x0000000000561320 SESSIONNAME                    Console
+    2132 chrome.exe           0x0000000000561320 SystemDrive                    C:
+    2132 chrome.exe           0x0000000000561320 SystemRoot                     C:\Windows
+    2132 chrome.exe           0x0000000000561320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2132 chrome.exe           0x0000000000561320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2132 chrome.exe           0x0000000000561320 USERDOMAIN                     VIRUS-PC
+    2132 chrome.exe           0x0000000000561320 USERNAME                       Jaffa
+    2132 chrome.exe           0x0000000000561320 USERPROFILE                    C:\Users\Jaffa
+    2132 chrome.exe           0x0000000000561320 windir                         C:\Windows
+    2132 chrome.exe           0x0000000000561320 windows_tracing_flags          3
+    2132 chrome.exe           0x0000000000561320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2168 chrome.exe           0x0000000000421320 ALLUSERSPROFILE                C:\ProgramData
+    2168 chrome.exe           0x0000000000421320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2168 chrome.exe           0x0000000000421320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2124_HYPTHIKRKHINVSMY
+    2168 chrome.exe           0x0000000000421320 CommonProgramFiles             C:\Program Files\Common Files
+    2168 chrome.exe           0x0000000000421320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2168 chrome.exe           0x0000000000421320 CommonProgramW6432             C:\Program Files\Common Files
+    2168 chrome.exe           0x0000000000421320 COMPUTERNAME                   VIRUS-PC
+    2168 chrome.exe           0x0000000000421320 ComSpec                        C:\Windows\system32\cmd.exe
+    2168 chrome.exe           0x0000000000421320 FP_NO_HOST_CHECK               NO
+    2168 chrome.exe           0x0000000000421320 HOMEDRIVE                      C:
+    2168 chrome.exe           0x0000000000421320 HOMEPATH                       \Users\Jaffa
+    2168 chrome.exe           0x0000000000421320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2168 chrome.exe           0x0000000000421320 LOGONSERVER                    \\VIRUS-PC
+    2168 chrome.exe           0x0000000000421320 NUMBER_OF_PROCESSORS           1
+    2168 chrome.exe           0x0000000000421320 OS                             Windows_NT
+    2168 chrome.exe           0x0000000000421320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2168 chrome.exe           0x0000000000421320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2168 chrome.exe           0x0000000000421320 PROCESSOR_ARCHITECTURE         AMD64
+    2168 chrome.exe           0x0000000000421320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2168 chrome.exe           0x0000000000421320 PROCESSOR_LEVEL                6
+    2168 chrome.exe           0x0000000000421320 PROCESSOR_REVISION             9e0a
+    2168 chrome.exe           0x0000000000421320 ProgramData                    C:\ProgramData
+    2168 chrome.exe           0x0000000000421320 ProgramFiles                   C:\Program Files
+    2168 chrome.exe           0x0000000000421320 ProgramFiles(x86)              C:\Program Files (x86)
+    2168 chrome.exe           0x0000000000421320 ProgramW6432                   C:\Program Files
+    2168 chrome.exe           0x0000000000421320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2168 chrome.exe           0x0000000000421320 PUBLIC                         C:\Users\Public
+    2168 chrome.exe           0x0000000000421320 RAR password                   easypeasyvirus
+    2168 chrome.exe           0x0000000000421320 SESSIONNAME                    Console
+    2168 chrome.exe           0x0000000000421320 SystemDrive                    C:
+    2168 chrome.exe           0x0000000000421320 SystemRoot                     C:\Windows
+    2168 chrome.exe           0x0000000000421320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2168 chrome.exe           0x0000000000421320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2168 chrome.exe           0x0000000000421320 USERDOMAIN                     VIRUS-PC
+    2168 chrome.exe           0x0000000000421320 USERNAME                       Jaffa
+    2168 chrome.exe           0x0000000000421320 USERPROFILE                    C:\Users\Jaffa
+    2168 chrome.exe           0x0000000000421320 windir                         C:\Windows
+    2168 chrome.exe           0x0000000000421320 windows_tracing_flags          3
+    2168 chrome.exe           0x0000000000421320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2292 WmiPrvSE.exe         0x00000000001c1320 ALLUSERSPROFILE                C:\ProgramData
+    2292 WmiPrvSE.exe         0x00000000001c1320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2292 WmiPrvSE.exe         0x00000000001c1320 CommonProgramFiles             C:\Program Files\Common Files
+    2292 WmiPrvSE.exe         0x00000000001c1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2292 WmiPrvSE.exe         0x00000000001c1320 CommonProgramW6432             C:\Program Files\Common Files
+    2292 WmiPrvSE.exe         0x00000000001c1320 COMPUTERNAME                   VIRUS-PC
+    2292 WmiPrvSE.exe         0x00000000001c1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2292 WmiPrvSE.exe         0x00000000001c1320 FP_NO_HOST_CHECK               NO
+    2292 WmiPrvSE.exe         0x00000000001c1320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2292 WmiPrvSE.exe         0x00000000001c1320 NUMBER_OF_PROCESSORS           1
+    2292 WmiPrvSE.exe         0x00000000001c1320 OS                             Windows_NT
+    2292 WmiPrvSE.exe         0x00000000001c1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2292 WmiPrvSE.exe         0x00000000001c1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2292 WmiPrvSE.exe         0x00000000001c1320 PROCESSOR_ARCHITECTURE         AMD64
+    2292 WmiPrvSE.exe         0x00000000001c1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2292 WmiPrvSE.exe         0x00000000001c1320 PROCESSOR_LEVEL                6
+    2292 WmiPrvSE.exe         0x00000000001c1320 PROCESSOR_REVISION             9e0a
+    2292 WmiPrvSE.exe         0x00000000001c1320 ProgramData                    C:\ProgramData
+    2292 WmiPrvSE.exe         0x00000000001c1320 ProgramFiles                   C:\Program Files
+    2292 WmiPrvSE.exe         0x00000000001c1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2292 WmiPrvSE.exe         0x00000000001c1320 ProgramW6432                   C:\Program Files
+    2292 WmiPrvSE.exe         0x00000000001c1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2292 WmiPrvSE.exe         0x00000000001c1320 PUBLIC                         C:\Users\Public
+    2292 WmiPrvSE.exe         0x00000000001c1320 SystemDrive                    C:
+    2292 WmiPrvSE.exe         0x00000000001c1320 SystemRoot                     C:\Windows
+    2292 WmiPrvSE.exe         0x00000000001c1320 TEMP                           C:\Windows\TEMP
+    2292 WmiPrvSE.exe         0x00000000001c1320 TMP                            C:\Windows\TEMP
+    2292 WmiPrvSE.exe         0x00000000001c1320 USERDOMAIN                     WORKGROUP
+    2292 WmiPrvSE.exe         0x00000000001c1320 USERNAME                       VIRUS-PC$
+    2292 WmiPrvSE.exe         0x00000000001c1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2292 WmiPrvSE.exe         0x00000000001c1320 windir                         C:\Windows
+    2292 WmiPrvSE.exe         0x00000000001c1320 windows_tracing_flags          3
+    2292 WmiPrvSE.exe         0x00000000001c1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2340 chrome.exe           0x0000000000551320 ALLUSERSPROFILE                C:\ProgramData
+    2340 chrome.exe           0x0000000000551320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2340 chrome.exe           0x0000000000551320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2124_HYPTHIKRKHINVSMY
+    2340 chrome.exe           0x0000000000551320 CommonProgramFiles             C:\Program Files\Common Files
+    2340 chrome.exe           0x0000000000551320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2340 chrome.exe           0x0000000000551320 CommonProgramW6432             C:\Program Files\Common Files
+    2340 chrome.exe           0x0000000000551320 COMPUTERNAME                   VIRUS-PC
+    2340 chrome.exe           0x0000000000551320 ComSpec                        C:\Windows\system32\cmd.exe
+    2340 chrome.exe           0x0000000000551320 FP_NO_HOST_CHECK               NO
+    2340 chrome.exe           0x0000000000551320 HOMEDRIVE                      C:
+    2340 chrome.exe           0x0000000000551320 HOMEPATH                       \Users\Jaffa
+    2340 chrome.exe           0x0000000000551320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2340 chrome.exe           0x0000000000551320 LOGONSERVER                    \\VIRUS-PC
+    2340 chrome.exe           0x0000000000551320 NUMBER_OF_PROCESSORS           1
+    2340 chrome.exe           0x0000000000551320 OS                             Windows_NT
+    2340 chrome.exe           0x0000000000551320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2340 chrome.exe           0x0000000000551320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2340 chrome.exe           0x0000000000551320 PROCESSOR_ARCHITECTURE         AMD64
+    2340 chrome.exe           0x0000000000551320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2340 chrome.exe           0x0000000000551320 PROCESSOR_LEVEL                6
+    2340 chrome.exe           0x0000000000551320 PROCESSOR_REVISION             9e0a
+    2340 chrome.exe           0x0000000000551320 ProgramData                    C:\ProgramData
+    2340 chrome.exe           0x0000000000551320 ProgramFiles                   C:\Program Files
+    2340 chrome.exe           0x0000000000551320 ProgramFiles(x86)              C:\Program Files (x86)
+    2340 chrome.exe           0x0000000000551320 ProgramW6432                   C:\Program Files
+    2340 chrome.exe           0x0000000000551320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2340 chrome.exe           0x0000000000551320 PUBLIC                         C:\Users\Public
+    2340 chrome.exe           0x0000000000551320 RAR password                   easypeasyvirus
+    2340 chrome.exe           0x0000000000551320 SESSIONNAME                    Console
+    2340 chrome.exe           0x0000000000551320 SystemDrive                    C:
+    2340 chrome.exe           0x0000000000551320 SystemRoot                     C:\Windows
+    2340 chrome.exe           0x0000000000551320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2340 chrome.exe           0x0000000000551320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2340 chrome.exe           0x0000000000551320 USERDOMAIN                     VIRUS-PC
+    2340 chrome.exe           0x0000000000551320 USERNAME                       Jaffa
+    2340 chrome.exe           0x0000000000551320 USERPROFILE                    C:\Users\Jaffa
+    2340 chrome.exe           0x0000000000551320 windir                         C:\Windows
+    2340 chrome.exe           0x0000000000551320 windows_tracing_flags          3
+    2340 chrome.exe           0x0000000000551320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2440 chrome.exe           0x00000000003a1320 ALLUSERSPROFILE                C:\ProgramData
+    2440 chrome.exe           0x00000000003a1320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2440 chrome.exe           0x00000000003a1320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2124_HYPTHIKRKHINVSMY
+    2440 chrome.exe           0x00000000003a1320 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    2440 chrome.exe           0x00000000003a1320 CommonProgramFiles             C:\Program Files\Common Files
+    2440 chrome.exe           0x00000000003a1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2440 chrome.exe           0x00000000003a1320 CommonProgramW6432             C:\Program Files\Common Files
+    2440 chrome.exe           0x00000000003a1320 COMPUTERNAME                   VIRUS-PC
+    2440 chrome.exe           0x00000000003a1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2440 chrome.exe           0x00000000003a1320 FP_NO_HOST_CHECK               NO
+    2440 chrome.exe           0x00000000003a1320 HOMEDRIVE                      C:
+    2440 chrome.exe           0x00000000003a1320 HOMEPATH                       \Users\Jaffa
+    2440 chrome.exe           0x00000000003a1320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2440 chrome.exe           0x00000000003a1320 LOGONSERVER                    \\VIRUS-PC
+    2440 chrome.exe           0x00000000003a1320 NUMBER_OF_PROCESSORS           1
+    2440 chrome.exe           0x00000000003a1320 OS                             Windows_NT
+    2440 chrome.exe           0x00000000003a1320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2440 chrome.exe           0x00000000003a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2440 chrome.exe           0x00000000003a1320 PROCESSOR_ARCHITECTURE         AMD64
+    2440 chrome.exe           0x00000000003a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2440 chrome.exe           0x00000000003a1320 PROCESSOR_LEVEL                6
+    2440 chrome.exe           0x00000000003a1320 PROCESSOR_REVISION             9e0a
+    2440 chrome.exe           0x00000000003a1320 ProgramData                    C:\ProgramData
+    2440 chrome.exe           0x00000000003a1320 ProgramFiles                   C:\Program Files
+    2440 chrome.exe           0x00000000003a1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2440 chrome.exe           0x00000000003a1320 ProgramW6432                   C:\Program Files
+    2440 chrome.exe           0x00000000003a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2440 chrome.exe           0x00000000003a1320 PUBLIC                         C:\Users\Public
+    2440 chrome.exe           0x00000000003a1320 RAR password                   easypeasyvirus
+    2440 chrome.exe           0x00000000003a1320 SESSIONNAME                    Console
+    2440 chrome.exe           0x00000000003a1320 SystemDrive                    C:
+    2440 chrome.exe           0x00000000003a1320 SystemRoot                     C:\Windows
+    2440 chrome.exe           0x00000000003a1320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2440 chrome.exe           0x00000000003a1320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2440 chrome.exe           0x00000000003a1320 USERDOMAIN                     VIRUS-PC
+    2440 chrome.exe           0x00000000003a1320 USERNAME                       Jaffa
+    2440 chrome.exe           0x00000000003a1320 USERPROFILE                    C:\Users\Jaffa
+    2440 chrome.exe           0x00000000003a1320 windir                         C:\Windows
+    2440 chrome.exe           0x00000000003a1320 windows_tracing_flags          3
+    2440 chrome.exe           0x00000000003a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2452 chrome.exe           0x00000000003b1320 ALLUSERSPROFILE                C:\ProgramData
+    2452 chrome.exe           0x00000000003b1320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2452 chrome.exe           0x00000000003b1320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2124_HYPTHIKRKHINVSMY
+    2452 chrome.exe           0x00000000003b1320 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    2452 chrome.exe           0x00000000003b1320 CommonProgramFiles             C:\Program Files\Common Files
+    2452 chrome.exe           0x00000000003b1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2452 chrome.exe           0x00000000003b1320 CommonProgramW6432             C:\Program Files\Common Files
+    2452 chrome.exe           0x00000000003b1320 COMPUTERNAME                   VIRUS-PC
+    2452 chrome.exe           0x00000000003b1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2452 chrome.exe           0x00000000003b1320 FP_NO_HOST_CHECK               NO
+    2452 chrome.exe           0x00000000003b1320 HOMEDRIVE                      C:
+    2452 chrome.exe           0x00000000003b1320 HOMEPATH                       \Users\Jaffa
+    2452 chrome.exe           0x00000000003b1320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2452 chrome.exe           0x00000000003b1320 LOGONSERVER                    \\VIRUS-PC
+    2452 chrome.exe           0x00000000003b1320 NUMBER_OF_PROCESSORS           1
+    2452 chrome.exe           0x00000000003b1320 OS                             Windows_NT
+    2452 chrome.exe           0x00000000003b1320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2452 chrome.exe           0x00000000003b1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2452 chrome.exe           0x00000000003b1320 PROCESSOR_ARCHITECTURE         AMD64
+    2452 chrome.exe           0x00000000003b1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2452 chrome.exe           0x00000000003b1320 PROCESSOR_LEVEL                6
+    2452 chrome.exe           0x00000000003b1320 PROCESSOR_REVISION             9e0a
+    2452 chrome.exe           0x00000000003b1320 ProgramData                    C:\ProgramData
+    2452 chrome.exe           0x00000000003b1320 ProgramFiles                   C:\Program Files
+    2452 chrome.exe           0x00000000003b1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2452 chrome.exe           0x00000000003b1320 ProgramW6432                   C:\Program Files
+    2452 chrome.exe           0x00000000003b1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2452 chrome.exe           0x00000000003b1320 PUBLIC                         C:\Users\Public
+    2452 chrome.exe           0x00000000003b1320 RAR password                   easypeasyvirus
+    2452 chrome.exe           0x00000000003b1320 SESSIONNAME                    Console
+    2452 chrome.exe           0x00000000003b1320 SystemDrive                    C:
+    2452 chrome.exe           0x00000000003b1320 SystemRoot                     C:\Windows
+    2452 chrome.exe           0x00000000003b1320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2452 chrome.exe           0x00000000003b1320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2452 chrome.exe           0x00000000003b1320 USERDOMAIN                     VIRUS-PC
+    2452 chrome.exe           0x00000000003b1320 USERNAME                       Jaffa
+    2452 chrome.exe           0x00000000003b1320 USERPROFILE                    C:\Users\Jaffa
+    2452 chrome.exe           0x00000000003b1320 windir                         C:\Windows
+    2452 chrome.exe           0x00000000003b1320 windows_tracing_flags          3
+    2452 chrome.exe           0x00000000003b1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2800 WmiApSrv.exe         0x0000000000361320 ALLUSERSPROFILE                C:\ProgramData
+    2800 WmiApSrv.exe         0x0000000000361320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2800 WmiApSrv.exe         0x0000000000361320 CommonProgramFiles             C:\Program Files\Common Files
+    2800 WmiApSrv.exe         0x0000000000361320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2800 WmiApSrv.exe         0x0000000000361320 CommonProgramW6432             C:\Program Files\Common Files
+    2800 WmiApSrv.exe         0x0000000000361320 COMPUTERNAME                   VIRUS-PC
+    2800 WmiApSrv.exe         0x0000000000361320 ComSpec                        C:\Windows\system32\cmd.exe
+    2800 WmiApSrv.exe         0x0000000000361320 FP_NO_HOST_CHECK               NO
+    2800 WmiApSrv.exe         0x0000000000361320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2800 WmiApSrv.exe         0x0000000000361320 NUMBER_OF_PROCESSORS           1
+    2800 WmiApSrv.exe         0x0000000000361320 OS                             Windows_NT
+    2800 WmiApSrv.exe         0x0000000000361320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2800 WmiApSrv.exe         0x0000000000361320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2800 WmiApSrv.exe         0x0000000000361320 PROCESSOR_ARCHITECTURE         AMD64
+    2800 WmiApSrv.exe         0x0000000000361320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2800 WmiApSrv.exe         0x0000000000361320 PROCESSOR_LEVEL                6
+    2800 WmiApSrv.exe         0x0000000000361320 PROCESSOR_REVISION             9e0a
+    2800 WmiApSrv.exe         0x0000000000361320 ProgramData                    C:\ProgramData
+    2800 WmiApSrv.exe         0x0000000000361320 ProgramFiles                   C:\Program Files
+    2800 WmiApSrv.exe         0x0000000000361320 ProgramFiles(x86)              C:\Program Files (x86)
+    2800 WmiApSrv.exe         0x0000000000361320 ProgramW6432                   C:\Program Files
+    2800 WmiApSrv.exe         0x0000000000361320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2800 WmiApSrv.exe         0x0000000000361320 PUBLIC                         C:\Users\Public
+    2800 WmiApSrv.exe         0x0000000000361320 SystemDrive                    C:
+    2800 WmiApSrv.exe         0x0000000000361320 SystemRoot                     C:\Windows
+    2800 WmiApSrv.exe         0x0000000000361320 TEMP                           C:\Windows\TEMP
+    2800 WmiApSrv.exe         0x0000000000361320 TMP                            C:\Windows\TEMP
+    2800 WmiApSrv.exe         0x0000000000361320 USERDOMAIN                     WORKGROUP
+    2800 WmiApSrv.exe         0x0000000000361320 USERNAME                       VIRUS-PC$
+    2800 WmiApSrv.exe         0x0000000000361320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2800 WmiApSrv.exe         0x0000000000361320 windir                         C:\Windows
+    2800 WmiApSrv.exe         0x0000000000361320 windows_tracing_flags          3
+    2800 WmiApSrv.exe         0x0000000000361320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2896 WmiPrvSE.exe         0x0000000000331320 ALLUSERSPROFILE                C:\ProgramData
+    2896 WmiPrvSE.exe         0x0000000000331320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2896 WmiPrvSE.exe         0x0000000000331320 CommonProgramFiles             C:\Program Files\Common Files
+    2896 WmiPrvSE.exe         0x0000000000331320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2896 WmiPrvSE.exe         0x0000000000331320 CommonProgramW6432             C:\Program Files\Common Files
+    2896 WmiPrvSE.exe         0x0000000000331320 COMPUTERNAME                   VIRUS-PC
+    2896 WmiPrvSE.exe         0x0000000000331320 ComSpec                        C:\Windows\system32\cmd.exe
+    2896 WmiPrvSE.exe         0x0000000000331320 FP_NO_HOST_CHECK               NO
+    2896 WmiPrvSE.exe         0x0000000000331320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2896 WmiPrvSE.exe         0x0000000000331320 NUMBER_OF_PROCESSORS           1
+    2896 WmiPrvSE.exe         0x0000000000331320 OS                             Windows_NT
+    2896 WmiPrvSE.exe         0x0000000000331320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2896 WmiPrvSE.exe         0x0000000000331320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2896 WmiPrvSE.exe         0x0000000000331320 PROCESSOR_ARCHITECTURE         AMD64
+    2896 WmiPrvSE.exe         0x0000000000331320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2896 WmiPrvSE.exe         0x0000000000331320 PROCESSOR_LEVEL                6
+    2896 WmiPrvSE.exe         0x0000000000331320 PROCESSOR_REVISION             9e0a
+    2896 WmiPrvSE.exe         0x0000000000331320 ProgramData                    C:\ProgramData
+    2896 WmiPrvSE.exe         0x0000000000331320 ProgramFiles                   C:\Program Files
+    2896 WmiPrvSE.exe         0x0000000000331320 ProgramFiles(x86)              C:\Program Files (x86)
+    2896 WmiPrvSE.exe         0x0000000000331320 ProgramW6432                   C:\Program Files
+    2896 WmiPrvSE.exe         0x0000000000331320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2896 WmiPrvSE.exe         0x0000000000331320 PUBLIC                         C:\Users\Public
+    2896 WmiPrvSE.exe         0x0000000000331320 SystemDrive                    C:
+    2896 WmiPrvSE.exe         0x0000000000331320 SystemRoot                     C:\Windows
+    2896 WmiPrvSE.exe         0x0000000000331320 TEMP                           C:\Windows\TEMP
+    2896 WmiPrvSE.exe         0x0000000000331320 TMP                            C:\Windows\TEMP
+    2896 WmiPrvSE.exe         0x0000000000331320 USERDOMAIN                     WORKGROUP
+    2896 WmiPrvSE.exe         0x0000000000331320 USERNAME                       VIRUS-PC$
+    2896 WmiPrvSE.exe         0x0000000000331320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2896 WmiPrvSE.exe         0x0000000000331320 windir                         C:\Windows
+    2896 WmiPrvSE.exe         0x0000000000331320 windows_tracing_flags          3
+    2896 WmiPrvSE.exe         0x0000000000331320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2940 chrome.exe           0x0000000000371320 ALLUSERSPROFILE                C:\ProgramData
+    2940 chrome.exe           0x0000000000371320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2940 chrome.exe           0x0000000000371320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2124_HYPTHIKRKHINVSMY
+    2940 chrome.exe           0x0000000000371320 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    2940 chrome.exe           0x0000000000371320 CommonProgramFiles             C:\Program Files\Common Files
+    2940 chrome.exe           0x0000000000371320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2940 chrome.exe           0x0000000000371320 CommonProgramW6432             C:\Program Files\Common Files
+    2940 chrome.exe           0x0000000000371320 COMPUTERNAME                   VIRUS-PC
+    2940 chrome.exe           0x0000000000371320 ComSpec                        C:\Windows\system32\cmd.exe
+    2940 chrome.exe           0x0000000000371320 FP_NO_HOST_CHECK               NO
+    2940 chrome.exe           0x0000000000371320 HOMEDRIVE                      C:
+    2940 chrome.exe           0x0000000000371320 HOMEPATH                       \Users\Jaffa
+    2940 chrome.exe           0x0000000000371320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2940 chrome.exe           0x0000000000371320 LOGONSERVER                    \\VIRUS-PC
+    2940 chrome.exe           0x0000000000371320 NUMBER_OF_PROCESSORS           1
+    2940 chrome.exe           0x0000000000371320 OS                             Windows_NT
+    2940 chrome.exe           0x0000000000371320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2940 chrome.exe           0x0000000000371320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2940 chrome.exe           0x0000000000371320 PROCESSOR_ARCHITECTURE         AMD64
+    2940 chrome.exe           0x0000000000371320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2940 chrome.exe           0x0000000000371320 PROCESSOR_LEVEL                6
+    2940 chrome.exe           0x0000000000371320 PROCESSOR_REVISION             9e0a
+    2940 chrome.exe           0x0000000000371320 ProgramData                    C:\ProgramData
+    2940 chrome.exe           0x0000000000371320 ProgramFiles                   C:\Program Files
+    2940 chrome.exe           0x0000000000371320 ProgramFiles(x86)              C:\Program Files (x86)
+    2940 chrome.exe           0x0000000000371320 ProgramW6432                   C:\Program Files
+    2940 chrome.exe           0x0000000000371320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2940 chrome.exe           0x0000000000371320 PUBLIC                         C:\Users\Public
+    2940 chrome.exe           0x0000000000371320 RAR password                   easypeasyvirus
+    2940 chrome.exe           0x0000000000371320 SESSIONNAME                    Console
+    2940 chrome.exe           0x0000000000371320 SystemDrive                    C:
+    2940 chrome.exe           0x0000000000371320 SystemRoot                     C:\Windows
+    2940 chrome.exe           0x0000000000371320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2940 chrome.exe           0x0000000000371320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2940 chrome.exe           0x0000000000371320 USERDOMAIN                     VIRUS-PC
+    2940 chrome.exe           0x0000000000371320 USERNAME                       Jaffa
+    2940 chrome.exe           0x0000000000371320 USERPROFILE                    C:\Users\Jaffa
+    2940 chrome.exe           0x0000000000371320 windir                         C:\Windows
+    2940 chrome.exe           0x0000000000371320 windows_tracing_flags          3
+    2940 chrome.exe           0x0000000000371320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2080 firefox.exe          0x00000000005f1320 ALLUSERSPROFILE                C:\ProgramData
+    2080 firefox.exe          0x00000000005f1320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2080 firefox.exe          0x00000000005f1320 CommonProgramFiles             C:\Program Files\Common Files
+    2080 firefox.exe          0x00000000005f1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2080 firefox.exe          0x00000000005f1320 CommonProgramW6432             C:\Program Files\Common Files
+    2080 firefox.exe          0x00000000005f1320 COMPUTERNAME                   VIRUS-PC
+    2080 firefox.exe          0x00000000005f1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2080 firefox.exe          0x00000000005f1320 FP_NO_HOST_CHECK               NO
+    2080 firefox.exe          0x00000000005f1320 HOMEDRIVE                      C:
+    2080 firefox.exe          0x00000000005f1320 HOMEPATH                       \Users\Jaffa
+    2080 firefox.exe          0x00000000005f1320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2080 firefox.exe          0x00000000005f1320 LOGONSERVER                    \\VIRUS-PC
+    2080 firefox.exe          0x00000000005f1320 NUMBER_OF_PROCESSORS           1
+    2080 firefox.exe          0x00000000005f1320 OS                             Windows_NT
+    2080 firefox.exe          0x00000000005f1320 Path                           C:\Program Files (x86)\Mozilla Firefox;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2080 firefox.exe          0x00000000005f1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2080 firefox.exe          0x00000000005f1320 PROCESSOR_ARCHITECTURE         AMD64
+    2080 firefox.exe          0x00000000005f1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2080 firefox.exe          0x00000000005f1320 PROCESSOR_LEVEL                6
+    2080 firefox.exe          0x00000000005f1320 PROCESSOR_REVISION             9e0a
+    2080 firefox.exe          0x00000000005f1320 ProgramData                    C:\ProgramData
+    2080 firefox.exe          0x00000000005f1320 ProgramFiles                   C:\Program Files
+    2080 firefox.exe          0x00000000005f1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2080 firefox.exe          0x00000000005f1320 ProgramW6432                   C:\Program Files
+    2080 firefox.exe          0x00000000005f1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2080 firefox.exe          0x00000000005f1320 PUBLIC                         C:\Users\Public
+    2080 firefox.exe          0x00000000005f1320 RAR password                   easypeasyvirus
+    2080 firefox.exe          0x00000000005f1320 SESSIONNAME                    Console
+    2080 firefox.exe          0x00000000005f1320 SystemDrive                    C:
+    2080 firefox.exe          0x00000000005f1320 SystemRoot                     C:\Windows
+    2080 firefox.exe          0x00000000005f1320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2080 firefox.exe          0x00000000005f1320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2080 firefox.exe          0x00000000005f1320 USERDOMAIN                     VIRUS-PC
+    2080 firefox.exe          0x00000000005f1320 USERNAME                       Jaffa
+    2080 firefox.exe          0x00000000005f1320 USERPROFILE                    C:\Users\Jaffa
+    2080 firefox.exe          0x00000000005f1320 windir                         C:\Windows
+    2080 firefox.exe          0x00000000005f1320 windows_tracing_flags          3
+    2080 firefox.exe          0x00000000005f1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2860 firefox.exe          0x0000000000121320 ALLUSERSPROFILE                C:\ProgramData
+    2860 firefox.exe          0x0000000000121320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2860 firefox.exe          0x0000000000121320 CommonProgramFiles             C:\Program Files\Common Files
+    2860 firefox.exe          0x0000000000121320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2860 firefox.exe          0x0000000000121320 CommonProgramW6432             C:\Program Files\Common Files
+    2860 firefox.exe          0x0000000000121320 COMPUTERNAME                   VIRUS-PC
+    2860 firefox.exe          0x0000000000121320 ComSpec                        C:\Windows\system32\cmd.exe
+    2860 firefox.exe          0x0000000000121320 FP_NO_HOST_CHECK               NO
+    2860 firefox.exe          0x0000000000121320 HOMEDRIVE                      C:
+    2860 firefox.exe          0x0000000000121320 HOMEPATH                       \Users\Jaffa
+    2860 firefox.exe          0x0000000000121320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2860 firefox.exe          0x0000000000121320 LOGONSERVER                    \\VIRUS-PC
+    2860 firefox.exe          0x0000000000121320 MOZ_CRASHREPOR...ATA_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports
+    2860 firefox.exe          0x0000000000121320 MOZ_CRASHREPOR...NTS_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports\events
+    2860 firefox.exe          0x0000000000121320 MOZ_CRASHREPOR...ING_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Pending Pings
+    2860 firefox.exe          0x0000000000121320 MOZ_CRASHREPOR...RESTART_ARG_0 C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+    2860 firefox.exe          0x0000000000121320 MOZ_CRASHREPOR...INGS_OVERRIDE C:\Program Files (x86)\Mozilla Firefox\browser\crashreporter-override.ini
+    2860 firefox.exe          0x0000000000121320 NUMBER_OF_PROCESSORS           1
+    2860 firefox.exe          0x0000000000121320 OS                             Windows_NT
+    2860 firefox.exe          0x0000000000121320 Path                           C:\Program Files (x86)\Mozilla Firefox;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2860 firefox.exe          0x0000000000121320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2860 firefox.exe          0x0000000000121320 PROCESSOR_ARCHITECTURE         AMD64
+    2860 firefox.exe          0x0000000000121320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2860 firefox.exe          0x0000000000121320 PROCESSOR_LEVEL                6
+    2860 firefox.exe          0x0000000000121320 PROCESSOR_REVISION             9e0a
+    2860 firefox.exe          0x0000000000121320 ProgramData                    C:\ProgramData
+    2860 firefox.exe          0x0000000000121320 ProgramFiles                   C:\Program Files
+    2860 firefox.exe          0x0000000000121320 ProgramFiles(x86)              C:\Program Files (x86)
+    2860 firefox.exe          0x0000000000121320 ProgramW6432                   C:\Program Files
+    2860 firefox.exe          0x0000000000121320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2860 firefox.exe          0x0000000000121320 PUBLIC                         C:\Users\Public
+    2860 firefox.exe          0x0000000000121320 RAR password                   easypeasyvirus
+    2860 firefox.exe          0x0000000000121320 SESSIONNAME                    Console
+    2860 firefox.exe          0x0000000000121320 SystemDrive                    C:
+    2860 firefox.exe          0x0000000000121320 SystemRoot                     C:\Windows
+    2860 firefox.exe          0x0000000000121320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2860 firefox.exe          0x0000000000121320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2860 firefox.exe          0x0000000000121320 USERDOMAIN                     VIRUS-PC
+    2860 firefox.exe          0x0000000000121320 USERNAME                       Jaffa
+    2860 firefox.exe          0x0000000000121320 USERPROFILE                    C:\Users\Jaffa
+    2860 firefox.exe          0x0000000000121320 windir                         C:\Windows
+    2860 firefox.exe          0x0000000000121320 windows_tracing_flags          3
+    2860 firefox.exe          0x0000000000121320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3016 firefox.exe          0x0000000000761320 ALLUSERSPROFILE                C:\ProgramData
+    3016 firefox.exe          0x0000000000761320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    3016 firefox.exe          0x0000000000761320 CommonProgramFiles             C:\Program Files\Common Files
+    3016 firefox.exe          0x0000000000761320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3016 firefox.exe          0x0000000000761320 CommonProgramW6432             C:\Program Files\Common Files
+    3016 firefox.exe          0x0000000000761320 COMPUTERNAME                   VIRUS-PC
+    3016 firefox.exe          0x0000000000761320 ComSpec                        C:\Windows\system32\cmd.exe
+    3016 firefox.exe          0x0000000000761320 FP_NO_HOST_CHECK               NO
+    3016 firefox.exe          0x0000000000761320 HOMEDRIVE                      C:
+    3016 firefox.exe          0x0000000000761320 HOMEPATH                       \Users\Jaffa
+    3016 firefox.exe          0x0000000000761320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    3016 firefox.exe          0x0000000000761320 LOGONSERVER                    \\VIRUS-PC
+    3016 firefox.exe          0x0000000000761320 MOZ_CRASHREPOR...ATA_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports
+    3016 firefox.exe          0x0000000000761320 MOZ_CRASHREPOR...NTS_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports\events
+    3016 firefox.exe          0x0000000000761320 MOZ_CRASHREPOR...ING_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Pending Pings
+    3016 firefox.exe          0x0000000000761320 MOZ_CRASHREPOR...RESTART_ARG_0 C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+    3016 firefox.exe          0x0000000000761320 MOZ_CRASHREPOR...INGS_OVERRIDE C:\Program Files (x86)\Mozilla Firefox\browser\crashreporter-override.ini
+    3016 firefox.exe          0x0000000000761320 NUMBER_OF_PROCESSORS           1
+    3016 firefox.exe          0x0000000000761320 OS                             Windows_NT
+    3016 firefox.exe          0x0000000000761320 Path                           C:\Program Files (x86)\Mozilla Firefox;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3016 firefox.exe          0x0000000000761320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3016 firefox.exe          0x0000000000761320 PROCESSOR_ARCHITECTURE         AMD64
+    3016 firefox.exe          0x0000000000761320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    3016 firefox.exe          0x0000000000761320 PROCESSOR_LEVEL                6
+    3016 firefox.exe          0x0000000000761320 PROCESSOR_REVISION             9e0a
+    3016 firefox.exe          0x0000000000761320 ProgramData                    C:\ProgramData
+    3016 firefox.exe          0x0000000000761320 ProgramFiles                   C:\Program Files
+    3016 firefox.exe          0x0000000000761320 ProgramFiles(x86)              C:\Program Files (x86)
+    3016 firefox.exe          0x0000000000761320 ProgramW6432                   C:\Program Files
+    3016 firefox.exe          0x0000000000761320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3016 firefox.exe          0x0000000000761320 PUBLIC                         C:\Users\Public
+    3016 firefox.exe          0x0000000000761320 RAR password                   easypeasyvirus
+    3016 firefox.exe          0x0000000000761320 SESSIONNAME                    Console
+    3016 firefox.exe          0x0000000000761320 SystemDrive                    C:
+    3016 firefox.exe          0x0000000000761320 SystemRoot                     C:\Windows
+    3016 firefox.exe          0x0000000000761320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    3016 firefox.exe          0x0000000000761320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    3016 firefox.exe          0x0000000000761320 USERDOMAIN                     VIRUS-PC
+    3016 firefox.exe          0x0000000000761320 USERNAME                       Jaffa
+    3016 firefox.exe          0x0000000000761320 USERPROFILE                    C:\Users\Jaffa
+    3016 firefox.exe          0x0000000000761320 windir                         C:\Windows
+    3016 firefox.exe          0x0000000000761320 windows_tracing_flags          3
+    3016 firefox.exe          0x0000000000761320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2968 firefox.exe          0x0000000000471320 ALLUSERSPROFILE                C:\ProgramData
+    2968 firefox.exe          0x0000000000471320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    2968 firefox.exe          0x0000000000471320 CommonProgramFiles             C:\Program Files\Common Files
+    2968 firefox.exe          0x0000000000471320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2968 firefox.exe          0x0000000000471320 CommonProgramW6432             C:\Program Files\Common Files
+    2968 firefox.exe          0x0000000000471320 COMPUTERNAME                   VIRUS-PC
+    2968 firefox.exe          0x0000000000471320 ComSpec                        C:\Windows\system32\cmd.exe
+    2968 firefox.exe          0x0000000000471320 FP_NO_HOST_CHECK               NO
+    2968 firefox.exe          0x0000000000471320 HOMEDRIVE                      C:
+    2968 firefox.exe          0x0000000000471320 HOMEPATH                       \Users\Jaffa
+    2968 firefox.exe          0x0000000000471320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    2968 firefox.exe          0x0000000000471320 LOGONSERVER                    \\VIRUS-PC
+    2968 firefox.exe          0x0000000000471320 MOZ_CRASHREPOR...ATA_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports
+    2968 firefox.exe          0x0000000000471320 MOZ_CRASHREPOR...NTS_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports\events
+    2968 firefox.exe          0x0000000000471320 MOZ_CRASHREPOR...ING_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Pending Pings
+    2968 firefox.exe          0x0000000000471320 MOZ_CRASHREPOR...RESTART_ARG_0 C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+    2968 firefox.exe          0x0000000000471320 MOZ_CRASHREPOR...INGS_OVERRIDE C:\Program Files (x86)\Mozilla Firefox\browser\crashreporter-override.ini
+    2968 firefox.exe          0x0000000000471320 NUMBER_OF_PROCESSORS           1
+    2968 firefox.exe          0x0000000000471320 OS                             Windows_NT
+    2968 firefox.exe          0x0000000000471320 Path                           C:\Program Files (x86)\Mozilla Firefox;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2968 firefox.exe          0x0000000000471320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2968 firefox.exe          0x0000000000471320 PROCESSOR_ARCHITECTURE         AMD64
+    2968 firefox.exe          0x0000000000471320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2968 firefox.exe          0x0000000000471320 PROCESSOR_LEVEL                6
+    2968 firefox.exe          0x0000000000471320 PROCESSOR_REVISION             9e0a
+    2968 firefox.exe          0x0000000000471320 ProgramData                    C:\ProgramData
+    2968 firefox.exe          0x0000000000471320 ProgramFiles                   C:\Program Files
+    2968 firefox.exe          0x0000000000471320 ProgramFiles(x86)              C:\Program Files (x86)
+    2968 firefox.exe          0x0000000000471320 ProgramW6432                   C:\Program Files
+    2968 firefox.exe          0x0000000000471320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2968 firefox.exe          0x0000000000471320 PUBLIC                         C:\Users\Public
+    2968 firefox.exe          0x0000000000471320 RAR password                   easypeasyvirus
+    2968 firefox.exe          0x0000000000471320 SESSIONNAME                    Console
+    2968 firefox.exe          0x0000000000471320 SystemDrive                    C:
+    2968 firefox.exe          0x0000000000471320 SystemRoot                     C:\Windows
+    2968 firefox.exe          0x0000000000471320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    2968 firefox.exe          0x0000000000471320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    2968 firefox.exe          0x0000000000471320 USERDOMAIN                     VIRUS-PC
+    2968 firefox.exe          0x0000000000471320 USERNAME                       Jaffa
+    2968 firefox.exe          0x0000000000471320 USERPROFILE                    C:\Users\Jaffa
+    2968 firefox.exe          0x0000000000471320 windir                         C:\Windows
+    2968 firefox.exe          0x0000000000471320 windows_tracing_flags          3
+    2968 firefox.exe          0x0000000000471320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3316 firefox.exe          0x0000000000a21320 ALLUSERSPROFILE                C:\ProgramData
+    3316 firefox.exe          0x0000000000a21320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    3316 firefox.exe          0x0000000000a21320 CommonProgramFiles             C:\Program Files\Common Files
+    3316 firefox.exe          0x0000000000a21320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3316 firefox.exe          0x0000000000a21320 CommonProgramW6432             C:\Program Files\Common Files
+    3316 firefox.exe          0x0000000000a21320 COMPUTERNAME                   VIRUS-PC
+    3316 firefox.exe          0x0000000000a21320 ComSpec                        C:\Windows\system32\cmd.exe
+    3316 firefox.exe          0x0000000000a21320 FP_NO_HOST_CHECK               NO
+    3316 firefox.exe          0x0000000000a21320 HOMEDRIVE                      C:
+    3316 firefox.exe          0x0000000000a21320 HOMEPATH                       \Users\Jaffa
+    3316 firefox.exe          0x0000000000a21320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    3316 firefox.exe          0x0000000000a21320 LOGONSERVER                    \\VIRUS-PC
+    3316 firefox.exe          0x0000000000a21320 MOZ_CRASHREPOR...ATA_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports
+    3316 firefox.exe          0x0000000000a21320 MOZ_CRASHREPOR...NTS_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Crash Reports\events
+    3316 firefox.exe          0x0000000000a21320 MOZ_CRASHREPOR...ING_DIRECTORY C:\Users\Jaffa\AppData\Roaming\Mozilla\Firefox\Pending Pings
+    3316 firefox.exe          0x0000000000a21320 MOZ_CRASHREPOR...RESTART_ARG_0 C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+    3316 firefox.exe          0x0000000000a21320 MOZ_CRASHREPOR...INGS_OVERRIDE C:\Program Files (x86)\Mozilla Firefox\browser\crashreporter-override.ini
+    3316 firefox.exe          0x0000000000a21320 NUMBER_OF_PROCESSORS           1
+    3316 firefox.exe          0x0000000000a21320 OS                             Windows_NT
+    3316 firefox.exe          0x0000000000a21320 Path                           C:\Program Files (x86)\Mozilla Firefox;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3316 firefox.exe          0x0000000000a21320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3316 firefox.exe          0x0000000000a21320 PROCESSOR_ARCHITECTURE         AMD64
+    3316 firefox.exe          0x0000000000a21320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    3316 firefox.exe          0x0000000000a21320 PROCESSOR_LEVEL                6
+    3316 firefox.exe          0x0000000000a21320 PROCESSOR_REVISION             9e0a
+    3316 firefox.exe          0x0000000000a21320 ProgramData                    C:\ProgramData
+    3316 firefox.exe          0x0000000000a21320 ProgramFiles                   C:\Program Files
+    3316 firefox.exe          0x0000000000a21320 ProgramFiles(x86)              C:\Program Files (x86)
+    3316 firefox.exe          0x0000000000a21320 ProgramW6432                   C:\Program Files
+    3316 firefox.exe          0x0000000000a21320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3316 firefox.exe          0x0000000000a21320 PUBLIC                         C:\Users\Public
+    3316 firefox.exe          0x0000000000a21320 RAR password                   easypeasyvirus
+    3316 firefox.exe          0x0000000000a21320 SESSIONNAME                    Console
+    3316 firefox.exe          0x0000000000a21320 SystemDrive                    C:
+    3316 firefox.exe          0x0000000000a21320 SystemRoot                     C:\Windows
+    3316 firefox.exe          0x0000000000a21320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    3316 firefox.exe          0x0000000000a21320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    3316 firefox.exe          0x0000000000a21320 USERDOMAIN                     VIRUS-PC
+    3316 firefox.exe          0x0000000000a21320 USERNAME                       Jaffa
+    3316 firefox.exe          0x0000000000a21320 USERPROFILE                    C:\Users\Jaffa
+    3316 firefox.exe          0x0000000000a21320 windir                         C:\Windows
+    3316 firefox.exe          0x0000000000a21320 windows_tracing_flags          3
+    3316 firefox.exe          0x0000000000a21320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3716 WinRAR.exe           0x00000000002a1320 ALLUSERSPROFILE                C:\ProgramData
+    3716 WinRAR.exe           0x00000000002a1320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    3716 WinRAR.exe           0x00000000002a1320 CommonProgramFiles             C:\Program Files\Common Files
+    3716 WinRAR.exe           0x00000000002a1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3716 WinRAR.exe           0x00000000002a1320 CommonProgramW6432             C:\Program Files\Common Files
+    3716 WinRAR.exe           0x00000000002a1320 COMPUTERNAME                   VIRUS-PC
+    3716 WinRAR.exe           0x00000000002a1320 ComSpec                        C:\Windows\system32\cmd.exe
+    3716 WinRAR.exe           0x00000000002a1320 FP_NO_HOST_CHECK               NO
+    3716 WinRAR.exe           0x00000000002a1320 HOMEDRIVE                      C:
+    3716 WinRAR.exe           0x00000000002a1320 HOMEPATH                       \Users\Jaffa
+    3716 WinRAR.exe           0x00000000002a1320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    3716 WinRAR.exe           0x00000000002a1320 LOGONSERVER                    \\VIRUS-PC
+    3716 WinRAR.exe           0x00000000002a1320 NUMBER_OF_PROCESSORS           1
+    3716 WinRAR.exe           0x00000000002a1320 OS                             Windows_NT
+    3716 WinRAR.exe           0x00000000002a1320 Path                           C:\Program Files\WinRAR;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3716 WinRAR.exe           0x00000000002a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3716 WinRAR.exe           0x00000000002a1320 PROCESSOR_ARCHITECTURE         AMD64
+    3716 WinRAR.exe           0x00000000002a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    3716 WinRAR.exe           0x00000000002a1320 PROCESSOR_LEVEL                6
+    3716 WinRAR.exe           0x00000000002a1320 PROCESSOR_REVISION             9e0a
+    3716 WinRAR.exe           0x00000000002a1320 ProgramData                    C:\ProgramData
+    3716 WinRAR.exe           0x00000000002a1320 ProgramFiles                   C:\Program Files
+    3716 WinRAR.exe           0x00000000002a1320 ProgramFiles(x86)              C:\Program Files (x86)
+    3716 WinRAR.exe           0x00000000002a1320 ProgramW6432                   C:\Program Files
+    3716 WinRAR.exe           0x00000000002a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3716 WinRAR.exe           0x00000000002a1320 PUBLIC                         C:\Users\Public
+    3716 WinRAR.exe           0x00000000002a1320 RAR password                   easypeasyvirus
+    3716 WinRAR.exe           0x00000000002a1320 SESSIONNAME                    Console
+    3716 WinRAR.exe           0x00000000002a1320 SystemDrive                    C:
+    3716 WinRAR.exe           0x00000000002a1320 SystemRoot                     C:\Windows
+    3716 WinRAR.exe           0x00000000002a1320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    3716 WinRAR.exe           0x00000000002a1320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    3716 WinRAR.exe           0x00000000002a1320 USERDOMAIN                     VIRUS-PC
+    3716 WinRAR.exe           0x00000000002a1320 USERNAME                       Jaffa
+    3716 WinRAR.exe           0x00000000002a1320 USERPROFILE                    C:\Users\Jaffa
+    3716 WinRAR.exe           0x00000000002a1320 windir                         C:\Windows
+    3716 WinRAR.exe           0x00000000002a1320 windows_tracing_flags          3
+    3716 WinRAR.exe           0x00000000002a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    4084 DumpIt.exe           0x00000000004e1320 ALLUSERSPROFILE                C:\ProgramData
+    4084 DumpIt.exe           0x00000000004e1320 APPDATA                        C:\Users\Jaffa\AppData\Roaming
+    4084 DumpIt.exe           0x00000000004e1320 CommonProgramFiles             C:\Program Files\Common Files
+    4084 DumpIt.exe           0x00000000004e1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    4084 DumpIt.exe           0x00000000004e1320 CommonProgramW6432             C:\Program Files\Common Files
+    4084 DumpIt.exe           0x00000000004e1320 COMPUTERNAME                   VIRUS-PC
+    4084 DumpIt.exe           0x00000000004e1320 ComSpec                        C:\Windows\system32\cmd.exe
+    4084 DumpIt.exe           0x00000000004e1320 FP_NO_HOST_CHECK               NO
+    4084 DumpIt.exe           0x00000000004e1320 HOMEDRIVE                      C:
+    4084 DumpIt.exe           0x00000000004e1320 HOMEPATH                       \Users\Jaffa
+    4084 DumpIt.exe           0x00000000004e1320 LOCALAPPDATA                   C:\Users\Jaffa\AppData\Local
+    4084 DumpIt.exe           0x00000000004e1320 LOGONSERVER                    \\VIRUS-PC
+    4084 DumpIt.exe           0x00000000004e1320 NUMBER_OF_PROCESSORS           1
+    4084 DumpIt.exe           0x00000000004e1320 OS                             Windows_NT
+    4084 DumpIt.exe           0x00000000004e1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    4084 DumpIt.exe           0x00000000004e1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    4084 DumpIt.exe           0x00000000004e1320 PROCESSOR_ARCHITECTURE         AMD64
+    4084 DumpIt.exe           0x00000000004e1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    4084 DumpIt.exe           0x00000000004e1320 PROCESSOR_LEVEL                6
+    4084 DumpIt.exe           0x00000000004e1320 PROCESSOR_REVISION             9e0a
+    4084 DumpIt.exe           0x00000000004e1320 ProgramData                    C:\ProgramData
+    4084 DumpIt.exe           0x00000000004e1320 ProgramFiles                   C:\Program Files
+    4084 DumpIt.exe           0x00000000004e1320 ProgramFiles(x86)              C:\Program Files (x86)
+    4084 DumpIt.exe           0x00000000004e1320 ProgramW6432                   C:\Program Files
+    4084 DumpIt.exe           0x00000000004e1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    4084 DumpIt.exe           0x00000000004e1320 PUBLIC                         C:\Users\Public
+    4084 DumpIt.exe           0x00000000004e1320 RAR password                   easypeasyvirus
+    4084 DumpIt.exe           0x00000000004e1320 SystemDrive                    C:
+    4084 DumpIt.exe           0x00000000004e1320 SystemRoot                     C:\Windows
+    4084 DumpIt.exe           0x00000000004e1320 TEMP                           C:\Users\Jaffa\AppData\Local\Temp
+    4084 DumpIt.exe           0x00000000004e1320 TMP                            C:\Users\Jaffa\AppData\Local\Temp
+    4084 DumpIt.exe           0x00000000004e1320 USERDOMAIN                     VIRUS-PC
+    4084 DumpIt.exe           0x00000000004e1320 USERNAME                       Jaffa
+    4084 DumpIt.exe           0x00000000004e1320 USERPROFILE                    C:\Users\Jaffa
+    4084 DumpIt.exe           0x00000000004e1320 windir                         C:\Windows
+    4084 DumpIt.exe           0x00000000004e1320 windows_tracing_flags          3
+    4084 DumpIt.exe           0x00000000004e1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    4092 conhost.exe          0x00000000002ed7a0 CommonProgramFiles             C:\Program Files\Common Files
+    4092 conhost.exe          0x00000000002ed7a0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    4092 conhost.exe          0x00000000002ed7a0 CommonProgramW6432             C:\Program Files\Common Files
+    4092 conhost.exe          0x00000000002ed7a0 ComSpec                        C:\Windows\system32\cmd.exe
+    4092 conhost.exe          0x00000000002ed7a0 FP_NO_HOST_CHECK               NO
+    4092 conhost.exe          0x00000000002ed7a0 NUMBER_OF_PROCESSORS           1
+    4092 conhost.exe          0x00000000002ed7a0 OS                             Windows_NT
+    4092 conhost.exe          0x00000000002ed7a0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    4092 conhost.exe          0x00000000002ed7a0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    4092 conhost.exe          0x00000000002ed7a0 PROCESSOR_ARCHITECTURE         AMD64
+    4092 conhost.exe          0x00000000002ed7a0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    4092 conhost.exe          0x00000000002ed7a0 PROCESSOR_LEVEL                6
+    4092 conhost.exe          0x00000000002ed7a0 PROCESSOR_REVISION             9e0a
+    4092 conhost.exe          0x00000000002ed7a0 ProgramFiles                   C:\Program Files
+    4092 conhost.exe          0x00000000002ed7a0 ProgramFiles(x86)              C:\Program Files (x86)
+    4092 conhost.exe          0x00000000002ed7a0 ProgramW6432                   C:\Program Files
+    4092 conhost.exe          0x00000000002ed7a0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    4092 conhost.exe          0x00000000002ed7a0 SystemDrive                    C:
+    4092 conhost.exe          0x00000000002ed7a0 SystemRoot                     C:\Windows
+    4092 conhost.exe          0x00000000002ed7a0 TEMP                           C:\Windows\TEMP
+    4092 conhost.exe          0x00000000002ed7a0 TMP                            C:\Windows\TEMP
+    4092 conhost.exe          0x00000000002ed7a0 USERNAME                       SYSTEM
+    4092 conhost.exe          0x00000000002ed7a0 windir                         C:\Windows
+    4092 conhost.exe          0x00000000002ed7a0 windows_tracing_flags          3
+    4092 conhost.exe          0x00000000002ed7a0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
